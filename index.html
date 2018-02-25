@@ -14,7 +14,8 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}
+         • <a href="https://martinholub.github.io{{ post.url }}#disqus_thread">0 Comments</a></p>
         {% if post.tags %}
         <p class="post-meta">Tags: {{ post.tags | join: ', '}} </p>
         {% endif %}

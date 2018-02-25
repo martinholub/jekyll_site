@@ -1,0 +1,103 @@
+---
+layout: post
+title: Kdo vydělá na českém penzijním připojištění?
+date: 2018-02-24 18:42
+tags: CZE personal-finance
+categories: CZE
+description: |
+    Po dlouhé době se k vám zase vracím s článkem na blogu. Mám mnoho věcí, o které bych se s vámi chtěl podělit, ale v tuto chvíli se omezím jen na jedno téma. Téma, které mi není zrovna vlastní, ale o kterém jsem přesvědčen že bude pro každého zajímavé a užitečné, a to sice téma spoření.
+---
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/header1_3pilir.jpg" alt="" title="tretipilir"/>
+</div>
+<div class="col three caption">
+Zdroj: Colourbox.de
+</div>
+
+*V následujícím článku popisuji modelový příklad s omezenou platností, a to vzhledem k tomu, že zde operuji s časovým horizontem 40 let během něhož je nepochybné že se popisované podmínky několikrát změní. Berte jej tedy prosím s rezervou.*
+<hr>
+<br/>
+
+Pomalu se blížím ke konci studia (jupí!!) a už docela těším na dobu, kdy zjistím, jaké to je mít nějaký trvalý příjem. Dlouhá léta jako student mne vycvičila v tom vystačit si s málem, a tak jakákoliv výplata budí pocit že snad i budu mít více peněz, než bych potřeboval. Přirozeně mi tedy na mysl přichází otázka – kam s nimi? Pochopitelně, koupím si nějakou ptákovinu, která mi vlastně k ničemu nebude a kterou s radostí za pár let vychodím nebo někomu věnuji. Co ale s tím zbytkem? No jasně, spořit!
+
+### Penzijní připojištění
+<br/>
+Jo spořit, ale kde? Třetí pilíř aneb doplňkové penzijní spoření (DPS), aneb penzijní připojištění vypadá okamžitě lákavě – 230&nbsp;Kč od státu měsíčně ke každé tisícikoruně, potencionální daňové úlevy při vyšších příspěvcích a zhodnocení i 6&nbsp;% ročně … no pecka! Ale spořit na důchod už teď? No proč ne, s ohledem na pokroky ve zdravotnictví mi hrozí pěkně dlouhé stáří a každá koruna se bude určitě hodit.
+
+DPS nabízí hned několik poskytovatelů, tak jakého vybrat? Vyhledávač snadno vyplivne tucet článků porovnávajících zhodnocení za poslední rok a velikost fondů. Asi tak užitečné jako předpověď počasí na minulý týden. Většina článků, přestože publikovaná médi, působí spíš jako reklama. V nejlepším případě se pokouší o podprahovost. Když konečně narazím na něco, co vypadá alespoň [trochu]( https://www.investujeme.cz/clanky/poplatky-penzijnich-spolecnosti-zakon-stanovil-latku/){:target="_blank"} [objektivně]( https://www.finance.cz/duchody-a-davky/penzijni-pripojisteni/srovnani-ucastnickych-fondu/){:target="_blank"} tak je to zastaralé.
+
+No nevadí, vyhrnu si rukávy a vydám se tedy na weby jednotlivých společností nabízejících DPS (AXA, Allianz, PSČS, ČSOB, NN, Conseq, KB, …). Firmy většinou nabízí několik typů fondů. S mým časovým horizontem (velmi dlouhý) mne zajímají jen ty dynamické aka růstové, tedy ty s největším podílem akcií. Do oka mi hned padnou kalkulačky penzijního připojištění! To je přesně to, co potřebuju! Plánuji spořit 40 let, 1000&nbsp;Kč každý měsíc, tak abych maximalizoval příspěvek do státu, tedy 230&nbsp;Kč a takto se snadno dozvím kolik z toho bude. Postupně vyzkouším všechny kalkulačky a výsledná částka spadá do intervalu 1.2–2.4 miliónu Kč … něco mi tu nehraje – částky jsou líbivé, to ano ale co ten rozptyl?
+
+<div class="img_row">
+    <a href="{{ site.baseurl }}/img/overview.png" target="_blank">
+	<img class="col three" src="{{ site.baseurl }}/img/overview.png" alt="" title="Prehled"/></a>
+</div>
+<div class="col three caption">
+Přehled různých nabídek doplňkového penzijního spoření
+</div>
+
+### Něco tady nehraje
+<br/>
+Pátrám na webech po informacích o poplatcích. Všude jen chvalozpěvy na zhodnocení, státní příspěvky a daňové úlevy.  Žádná společnost takovéto podstatné informace neumístila na hlavní stranu produktu. Nakonec ale tyto informace nacházím, krčit se v nějakém PDF. Čeká na mne nepříjemné překvapení. Poplatky jsou všude stejné a stejně nehorázné – 1&nbsp;% za vedení a 15&nbsp;% z výnosu, navrch ještě poplatek 800 Kč za případnou změnu poskytovatele. Vivat konkurence! Že by nebylo třeba o zákazníka bojovat?
+
+No dobrá, to ale pořád nevysvětluje ten rozptyl u očekávané uspořené částky, najdu tedy [nezávislou kalkulačku na jiném webu](https://www.finance.cz/duchody-a-davky/kalkulacky-a-aplikace/doplnkove-penzijni-sporeni/){:target="_blank"}, která umožnuje zadat libovolnou výši zhodnocení, v našem případě 3.39-6.05&nbsp;% p.a., výsledné výpočty většinou sedí, plus mínus nějaké to procento (takřka výhradně ve prospěch kalkulaček na webech poskytovatelů). To znamená, že rozptyl je vlivem rozdílného očekávaného zhodnocení. To je v pořádku. To je ale asi tak jediná věc, která je v pořádku. Ta nezávislá kalkulačka v hlavičce totiž upozorňuje na skutečnost, že do výsledku nejsou započítány žádné poplatky ani daně. Výsledek po zdanění je uveden separátně. Komerční kalkulačky toto však nedělají[^1], a tedy prezentují klamavé informace, a to bez jakéhokoliv upozornění. A to už, nezlobte se, to už pomalu přestává být vtipné. V první řadě fakt, že něco takového je vůbec legální.
+
+<div class="img_row" style = "max-width: 80%;">
+    <a href="{{ site.baseurl }}/img/financecz.png" target="_blank">
+	<img class="col three" src="{{ site.baseurl }}/img/financecz.png" alt="" title="Kalkulacka"/></a>
+</div>
+<div class="col three caption">
+Kalkulačka penzijního připojištění z webu <a href="https://www.finance.cz/duchody-a-davky/kalkulacky-a-aplikace/doplnkove-penzijni-sporeni/" target="_blank">finance.cz</a>
+</div>
+
+### Kdo na tom vydělá?
+<br/>
+Po nějaké době je pocit rozhořčení nahrazen zvědavostí – jak tedy asi vypadají skutečné výnosy po započtení poplatků a daní? Pro tohle už jsem žádnou kalkulačku na webu nenašel, a tak jsem vytáhnul kód z webu předešlé nezávislé kalkulačky[^2], [transformoval ho do spreadsheetu a doplnil ho o vliv poplatků poskytovateli DPS](https://docs.google.com/spreadsheets/d/1TqeApKqU_tCmNqKlq_v9hcn9BKmUiRMe05DWSVdMlAk/edit?usp=sharing){:target="_blank"}. A výsledek? Na třetím pilíři někdo zbohatne ale já ani vy ani stát to nebudeme. Vezměme si příklad v současnosti nejatraktivnějšího DPS, s očekávaným zhodnocením 6.05&nbsp;% p.a. nás kalkulačka poskytovatele navnadila na úsporu 2‘384‘000&nbsp;Kč. Po započtení poplatků a zdanění je ale skutečná úspora 1‘346‘600&nbsp;Kč a pojišťovně připadne krásných 909‘000&nbsp;Kč. V případě nejnižšího uvažovaného zhodnocení, 3.39&nbsp;% p.a., se pak slibovaná částka 1‘219‘000&nbsp;Kč změní v 838‘000&nbsp;Kč a poskytovatel na nás vydělá „pouze“ 359‘500&nbsp;Kč. Dobrej deal ne?
+
+<div class="img_row">
+    <a href="{{ site.baseurl }}/img/conseq_results.png" target="_blank">
+	<img class="col three" src="{{ site.baseurl }}/img/conseq_results.png" alt="" title="max_zhodnoceni"/></a>
+</div>
+<div class="col three caption">
+Dynamický fond DPS s nejvyšším očekávaným ročním zhodnocením
+</div>
+
+<div class="img_row">
+    <a href="{{ site.baseurl }}/img/kb_results.png" target="_blank">
+	<img class="col three" src="{{ site.baseurl }}/img/kb_results.png" alt="" title="min_zhodnoceni"/></a>
+</div>
+<div class="col three caption">
+Dynamický fond DPS s nejnižším očekávaným ročním zhodnocením
+</div>
+
+### Třetí pilíř ve Švýcarsku
+<br/>
+Tyhle čísla pro mne jsou jen těžko k uvěření, no ale kdo ví, třeba je to normální? Abych se o tomhle přesvědčil anebo to vyvrátil, použil jsem stejnou hodnotu pro teoretický očekávaný roční výnos jako v prvním případě (6.05&nbsp;%) a aplikoval ji v případě Švýcarska.  Vybral jsem dle mého názoru v současnosti [nejlepšího poskytovatele 3. pilíře](https://viac.ch/){:target="_blank"} a uvažoval případ svobodného člověka žijícího v Curychu (zdanění v případě vybrání 3. pilíře ve Švýcarsku [závisí na několika faktorech]( https://www.postfinance.ch/de/privat/support/tools-rechner/besteuerung-kapitalauszahlung.html){:target="_blank"} mezi něž patří bydliště, výška úspory, rodinný status a příslušnost k církvi). Veškeré částky ponechávám v českých korunách, měsíční spořená částka i doba spoření zůstává také beze změny. A výsledek? Čisté úspory 1‘572‘000&nbsp;Kč po 40 letech. K tomu 1‘800&nbsp;Kč ročně jakožto sleva na dani (72‘000&nbsp;Kč za 40 let). Poskytovateli pojištění připadne pak 233‘000&nbsp;Kč.
+
+<div class="img_row" style = "max-width: 80%;">
+    <a href="{{ site.baseurl }}/img/viac_global80.png" target="_blank">
+	<img class="col three" src="{{ site.baseurl }}/img/viac_global80.png" alt="" title="viac"/></a>
+</div>
+<div class="col three caption">
+Nabídka 3. pilíře penzijního spoření od nejatraktivnějšího švýcarského poskytovatele
+</div>
+
+### Penzijní připojištění? Ne děkuji.
+<br/>
+Systém spoření ve třetím pilíři, jak je nastavený v ČR očividně normální není. Je zcela zřejmé, že takovýto systém není šitý na míru zákazníkovi, nýbrž poskytovateli. Vypadá to, že snad alespoň stát na tom neprodělá. Do fondu DPS přispěje každý měsíc (celkem 40\*12\*230 = 110‘400&nbsp;Kč) s teoretickou vidinou, že zhruba stejnou celkovou částku od vás dostane zpět na daních za 40 let (v případě očekávaného průměrného ročního zhodnocení 6.05&nbsp;% to je 133‘400&nbsp;Kč[^3]). Takže nula od nuly pojde? Zdaleka ne. Tyhle dvě částky totiž vůbec nejsou ekvivalentní. Čistě orientačně, při průměrné meziroční inflaci 2.63&nbsp;% ([průměr za posledních 20 let](https://www.czso.cz/csu/czso/2-inflace_1994_){:target="_blank"}) byste státu měli za 20 let (zde polovina doby spoření) vrátit 185‘000&nbsp;Kč za 40 let už 315‘000&nbsp;Kč (viz [kalkulačka inflace](https://www.finance.cz/makrodata-eu/kalkulacky-aplikace/inflace/){:target="_blank"}). Takže stát defacto poskytuje bezúroční půjčku poskytovateli spoření, který pod vaším jménem peníze investuje a značnou část výnosů si ponechá. Kdybych byl penzijní pojišťovna tak vrním.
+
+Pro mne osobně z toho plyne jednoduchý závěr, v DPS peníze neutápět.  Neberte toto však okamžitě jako doporoučení pro vás. V tomto modelovém příkladu jsem nevzal v úvahu několik věcí – díky DPS můžete dosáhnout na jisté daňové úlevy. Pokud zvolíte ve stáří výplatu penze po dobu více než 10 let, pak je tato, podle současného znění zákona (!) [osvobozena od daně](http://www.financnisprava.cz/cs/dane/dane/dan-z-prijmu/fyzicke-osoby-poplatnik/ostatni#osvob-prijmy){:target="_blank"}. Dále vám také může ke spoření přispívat zaměstnavatel a tento příspěvek na vstupu (!) [nepodléhá odvodům ani zdanění](https://www.uctovani.net/clanek.php?t=Benefity-prispevek-zamestnavatele-na-penzijni-pripojisteni-a-soukrome-zivotni-pojisteni&idc=203){:target="_blank"} (do 30‘000&nbsp;Kč ročně). Pokud máte silný žaludek tak s pomocí mého spreadsheetu můžete sami vyzkoušet, jak se výsledná situace změní při různých scénářích. Možná, že ve vašem konkrétním případě se to skutečně vyplatí? Na každý pád si ale takový závazek předem dobře zvažte a každou nabídku kriticky zhodnoťte.
+
+### Není co zkazit!
+<br/>
+Situace vypadá černě a je snadné utápět se v pesimismu.  Myslím si ale, že bychom to měli vidět z jiného pohledu – takový fantastický potenciál pro zlepšení! Vím, že vy, kteří čtete tento blog máte kvalitní vzdělání, jste velmi inteligentní, často jste žili/pracovali/studovali v zahraničí a máte chuť realizovat se v projektech které vám osobně dávají smysl. Třeba vás anebo někoho z vašich přátel skutečně baví [FinTech](https://en.wikipedia.org/wiki/Financial_technology){:target="_blank"} a chtěli byste rozjet vlastní projekt který vytvoří nějakou reálnou konkurenci zavedeným hráčům? Tohle vypadá jako dobrá příležitost. Nebo máte jen chvilku volna a je pro vás snadné doplnit onu [nezávislou webovou kalkulačku]( https://www.finance.cz/duchody-a-davky/kalkulacky-a-aplikace/doplnkove-penzijni-sporeni/){:target="_blank"} o vliv poplatků, tak jak je to uděláno v mém [spreadsheetu]( https://docs.google.com/spreadsheets/d/1TqeApKqU_tCmNqKlq_v9hcn9BKmUiRMe05DWSVdMlAk/edit?usp=sharing){:target="_blank"}? Anebo máte nějaký úplně jiný vlastní nápad, jak změnit něco ve vašem okolí co vám v současnosti připadá přinejmenším stejně pitomé? Pak do toho a udělejte první krok dnes! Zkazit rozhodně nic nemůžete!
+<br/>
+
+[^1]: ČSOB vypadá být světlou výjimkou, když alespoň jasně avizují že částka odpovídající výnosům bude při vybrání zdaněna. Protože ale neuvádí, s jakým očekávaným ročním výnosem je počítáno, není snadné ověřit, zda jsou do výsledku započítány jakékoliv poplatky.
+[^2]: Svůj přístup jsem ověřil tím, že ze stejných vstupných hodnot dostanu stejné výsledky v spreadsheetu na webu. Pokud si chcete výpočty ověřit, doporučuji vzorečky si sami odvodit, zabere vám to jen chvilku.
+[^3]: V případě teoretického zhodnocení 3.39&nbsp;% p.a. pak daň z výnosu po 40 letech spoření činí 43‘000&nbsp;Kč, tedy asi 40&nbsp;% částky kterou do vás stát investoval.
+
+<hr>
+*Nejsem certifikovaný finanční poradce ani nemám ekonomické vzdělání. Zde vyjadřuji pouze své osobní názory. Jedná se jen o modelový příklad. Nemohu být zodpovědný za vaši případnou finanční ztrátu. Přestože jsem udělal vše pro to, aby zde prezentované informace byly správné, je možné že jsem někde udělal chybu. Pokud ji najdete, budu vděčný dáte-li mi vědět!*
+<hr>
+<br/>

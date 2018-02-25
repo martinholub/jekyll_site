@@ -3,9 +3,13 @@ layout: page
 title: projects
 permalink: /portfolio/
 ---
-{% assign shuffled_portfolio = site.portfolio | sample: 6 %}
+<!---
+{% assign shuffled_portfolio = site.portfolio | shift | sample: 6 %}
 {% for project in shuffled_portfolio %}
+{% endfor %}
+-->
 
+{% for project in site.portfolio %}
 {% if project.redirect %}
 <div class="project">
     <div class="thumbnail">

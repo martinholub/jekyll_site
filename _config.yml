@@ -1,5 +1,5 @@
 # Site settings
-title: *folio
+title: *blog
 email: martin-holub@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
@@ -9,6 +9,8 @@ twitter_username: holub_martin
 github_username:  martinholub
 
 repository: martinholub/martin-holub.github.io
+github: [metadata]
+exclude: [Rakefile, _portfolio/7_project.markdown]
 
 plugins:
     - jekyll-paginate
@@ -19,6 +21,15 @@ plugins:
 
 plugins_dir: ./_plugins
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+      sharing: true
 
 # Build settings
 markdown: kramdown #redcarpet
@@ -52,9 +63,8 @@ JB :
   comments :
     provider : disqus
     disqus :
-      layout: default
-      comments: true
-      short_name :
+      layout : default
+      short_name : martinholub
     livefyre :
       site_id : 123
     intensedebate :

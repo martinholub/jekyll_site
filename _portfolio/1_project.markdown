@@ -3,11 +3,13 @@ layout: post
 title: Machine Learning - MRI Analysis
 description: A practical project at ETHZ
 img: /img/MachineLearningHeader.jpg
+comments: true
+sharing: true 
 ---
 <div class="img_row" style = "height: 275px;">
 	<img class="col three" src="{{ site.baseurl }}/img/MachineLearningHeader.jpg" alt="" title="MachineLearningHeader"/>
 </div>
-<div class="col three caption"> 
+<div class="col three caption">
 </div>
 
 <i>
@@ -38,11 +40,11 @@ In the case of our project, we were provided with roughly 400 3D MRI scans of hu
 </div>
 <div class="col three caption"> Fig. 2: Three orthogonal cross sections from a typical image from our dataset </div>
 <br/>
-Our task in the project was divided into three parts: 1) predict person’s age, 2) predict health status and 3) predict age, health status and gender simultaneously. Together with the image data, we were provided with correct labels for 2/3 of the images. This basically means that somebody was noting the person’s age, gender and health status when taking the scan and that we were dealing with <a href="https://en.wikipedia.org/wiki/Supervised_learning">supervised learning</a> problem. Our task then was to make prediction on remaining 1/3 of images. 
+Our task in the project was divided into three parts: 1) predict person’s age, 2) predict health status and 3) predict age, health status and gender simultaneously. Together with the image data, we were provided with correct labels for 2/3 of the images. This basically means that somebody was noting the person’s age, gender and health status when taking the scan and that we were dealing with <a href="https://en.wikipedia.org/wiki/Supervised_learning">supervised learning</a> problem. Our task then was to make prediction on remaining 1/3 of images.
 
 ### Preprocessing
 <br/>
-As a first step in practically any image analysis task, one needs to assure that the images can be easily compared against each other, that they don’t include any artifacts from the imaging process and that they contain as much useful information as possible while leaving out what we are not interested in. We call this procedure preprocessing. In the case of MRI scans, the frequent steps in this process include: 
+As a first step in practically any image analysis task, one needs to assure that the images can be easily compared against each other, that they don’t include any artifacts from the imaging process and that they contain as much useful information as possible while leaving out what we are not interested in. We call this procedure preprocessing. In the case of MRI scans, the frequent steps in this process include:
 -	brain extraction (removal of non-brain tissue),
 -	bias-field correction (compensation intensity gradients in the image that are due to magnetic field non-uniformities during scanning),
 -	resizing and
@@ -54,9 +56,9 @@ In our project, the available data has already been preconditioned with these ap
 
 ### Feature Extraction
 <br/>
-With good-quality input data one may proceed to arguably the most important part of a machine learning pipeline – the feature extraction. The nature of the process lies in transforming the data from a very high-dimensional space to a space with lower dimensions, while retaining the discriminative information and throwing out what will not help you in decision making. 
+With good-quality input data one may proceed to arguably the most important part of a machine learning pipeline – the feature extraction. The nature of the process lies in transforming the data from a very high-dimensional space to a space with lower dimensions, while retaining the discriminative information and throwing out what will not help you in decision making.
 
-To relate this to the task at hand, recall that initially each image represents array of more than 6 million (176×208×176) values while, at the end, you are supposed to give it a label that consists of a single number (either age or 1/0 for healthy/sick or 1/0 for male/female). The big question here is: how does one go from the former to the latter? Intuitively, not all the voxel values will play the same role in prediction. Some regions of brain will be more telling when it comes to predicting age, other when determining health status and so on. The objective in feature extraction process is to find those pixels. There are many tactics how to approach this problem. In a crude division - one can either rely on purely statistical methods, or to include so called ‘expert knowledge’. 
+To relate this to the task at hand, recall that initially each image represents array of more than 6 million (176×208×176) values while, at the end, you are supposed to give it a label that consists of a single number (either age or 1/0 for healthy/sick or 1/0 for male/female). The big question here is: how does one go from the former to the latter? Intuitively, not all the voxel values will play the same role in prediction. Some regions of brain will be more telling when it comes to predicting age, other when determining health status and so on. The objective in feature extraction process is to find those pixels. There are many tactics how to approach this problem. In a crude division - one can either rely on purely statistical methods, or to include so called ‘expert knowledge’.
 
 You can better understand this with an example from the project our team was working on. Imagine having to decide whether the brain scan you are looking at belongs to a person struck by a mental illness or not. If you happen to have some knowledge on brain physiology, you may expect such disease to show up by altering the appearance of <a href="https://en.wikipedia.org/wiki/Hippocampus">hippocampus</a>, thus you limit your features to come only from that region. (This is what the most successful teams in this part of the project did.)
 
@@ -67,7 +69,7 @@ On the other hand, if you have little to no knowledge of where the “signal” 
 <div class="col three caption"> Fig. 3: Visualization of Multi-histogram approach (Author: Viktor Wegmayr) </div>
 <br/>
 Note, that as we used 35 bins per histogram (dividing the span from 0 to 4096 into 35 equidistantly spaced intervals and counting intensity value occurrences in those), we reduced dimensionality of our problem more than 6 500× by this simple procedure.
- 
+
 Further quasi-necessary step to be done either in the preprocessing or feature extraction stage is data conditioning. This is done mainly to improve numerical stability during subsequent steps. The common approach is to scale the data to unit variance and remove their mean, so that they are centered around zero.
 
 <div class="img_row" >
@@ -98,13 +100,13 @@ Now the situation is usually by far not that simple. First, recall that our feat
 In the most general terms, proceeding with the classification example, we look for a function that, given input vector, outputs a prediction, i.e. in this case either 0 or 1, which minimizes some objective. This function is defined by set of parameters. The common objective to minimize is so called <a href="https://en.wikipedia.org/wiki/Loss_function">loss function</a> which takes our prediction, true label and outputs a value that represents a penalization for misclassification. In mathematical notation, this is expressed as follows:
 $$ \mathbf{\theta^{*}} = argmin_{\theta}\mathcal{L}(f(\textbf{X}, \mathbf{\theta}); \textbf{t}), $$
 
-Where \\(\mathbf{\theta^{*}}\\) is the vector of optimal parameters, \\(\mathcal{L}(\cdot)\\) is a loss function, \\(f(\cdot)\\) is a function that gives us our prediction, \\(X\\) is a matrix of dimensions N×D, N and D being number of samples and features respectively, and \\(t\\) is a vector of true labels. 
+Where \\(\mathbf{\theta^{*}}\\) is the vector of optimal parameters, \\(\mathcal{L}(\cdot)\\) is a loss function, \\(f(\cdot)\\) is a function that gives us our prediction, \\(X\\) is a matrix of dimensions N×D, N and D being number of samples and features respectively, and \\(t\\) is a vector of true labels.
 
 Let’s look at an example to understand this better. If the patient is healthy and we predict 0 (0 meaning no sickness), then the loss will be zero. Contrary, when we would predict 1, meaning presence of sickness, then the loss will be some nonzero value. If we take a step back and look at the problem for a while, we will easily see that we are attempting no more than function-fitting here. Of course, the number of dimensions, accessory constraints, further elements of the pipeline and the richness of the machine learning field make it rather a fancy kind of function fitting. This is nevertheless to show, that one shouldn’t expect magic to happen when confronted with machine learning algorithms. It is just math that happens to receive a lot of hype.
 
 ### Validation
 <br/>
-Let’s proceed now to the second part of model selection phase – <a href="http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms/">validation</a>. As you might have noticed, the ideal predictor function one would obtain from training phase is the one that gives 0 training loss, meaning that all samples were classified correctly. This appears desirable, but only to a point when one takes a look at decision boundaries of such a function. For illustration, let’s look how they may look like in such a case: 
+Let’s proceed now to the second part of model selection phase – <a href="http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms/">validation</a>. As you might have noticed, the ideal predictor function one would obtain from training phase is the one that gives 0 training loss, meaning that all samples were classified correctly. This appears desirable, but only to a point when one takes a look at decision boundaries of such a function. For illustration, let’s look how they may look like in such a case:
 
 <div class="img_row">
 	<img class = "col three" src="{{ site.baseurl }}/img/overfitting.png" alt="" title="overfitting" style='height: 100%; width: 100%; object-fit: contain'/>
@@ -123,7 +125,7 @@ The GridSearch routine outputs a validation error for each model it is provided 
 ### Results and Submission
 <br/>
 At this point, we are basically finished with the task as described above. In the case of our project this means that we can save our predictions to a file and submit it to <a href="https://inclass.kaggle.com/">Kaggle</a> (an online platform for administering big machine learning projects and competitions that hosts also university projects) to obtain a score on how well did we fare.
- 
+
 Although this sounds trivial, there are still some things to keep an eye on. First, the score is computed based on another portion of dataset that one isn’t allowed to access. As we are allowed to submit the solution repeatedly, it is inevitable (the less experience one has the more likely so) to try to achieve the best score. This in practice means, that there is leakage of information from the ‘hidden’ data to the model being trained. And this in turn means that we are on the best track to overfit again. This is because Kaggle uses only one half of the held-out dataset to compute the score, and usually the more we try to optimize on the available half, the worse the final score, that is based on the other half, will be. In the first two parts of the project, we made exactly this mistake, and although our predictions scored well on public leaderboard, we did poorly on the private one. For the last part of the project, we increased the robustness of model selection procedure (for example by implementing the GridSearchCV, tracking standard deviation among runs of random permutation of data, etc…) and this allowed us to perform well above average.
 
 ### Remarks and Takeaway
