@@ -5,7 +5,7 @@ date: 2018-02-24 18:42
 tags: CZE personal-finance
 categories: CZE
 description: |
-    Po dlouhé době se k vám zase vracím s článkem na blogu. Mám mnoho věcí, o které bych se s vámi chtěl podělit, ale v tuto chvíli se omezím jen na jedno téma. Téma, které mi není zrovna vlastní, ale o kterém jsem přesvědčen že bude pro každého zajímavé a užitečné, a to sice téma spoření.
+    Po dlouhé době se k vám zase vracím s článkem na blogu. Mám mnoho věcí, o které bych se s vámi chtěl podělit, ale v tuto chvíli se omezím jen na jedno téma. Téma, které mi není zrovna vlastní, ale o kterém jsem přesvědčen, že bude pro každého zajímavé a užitečné, a to sice téma spoření.
 ---
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/header1_3pilir.jpg" alt="" title="tretipilir"/>
@@ -14,9 +14,11 @@ description: |
 Zdroj: Colourbox.de
 </div>
 
-*V následujícím článku popisuji modelový příklad s omezenou platností, a to vzhledem k tomu, že zde operuji s časovým horizontem 40 let během něhož je nepochybné že se popisované podmínky několikrát změní. Berte jej tedy prosím s rezervou.*
+*V následujícím článku popisuji modelový příklad s omezenou platností, a to vzhledem k tomu, že zde operuji s časovým horizontem 40 let během něhož je nepochybné, že se popisované podmínky několikrát změní. Berte jej tedy prosím s rezervou.*
 <hr>
 <br/>
+
+Po dlouhé době se k vám zase vracím s článkem na blogu. Mám mnoho věcí, o které bych se s vámi chtěl podělit, ale v tuto chvíli se omezím jen na jedno téma. Téma, o které mi není zrovna vlastní, ale o kterém jsem přesvědčen, že bude pro každého zajímavé a užitečné, a to sice téma spoření.
 
 Pomalu se blížím ke konci studia (jupí!!) a už docela těším na dobu, kdy zjistím, jaké to je mít nějaký trvalý příjem. Dlouhá léta jako student mne vycvičila v tom vystačit si s málem, a tak jakákoliv výplata budí pocit že snad i budu mít více peněz, než bych potřeboval. Přirozeně mi tedy na mysl přichází otázka – kam s nimi? Pochopitelně, koupím si nějakou ptákovinu, která mi vlastně k ničemu nebude a kterou s radostí za pár let vychodím nebo někomu věnuji. Co ale s tím zbytkem? No jasně, spořit!
 

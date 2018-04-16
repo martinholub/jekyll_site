@@ -33,7 +33,17 @@ defaults:
 
 # Build settings
 markdown: kramdown #redcarpet
-highlighter: rouge
+highlighter: pygments #pygments
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false # https://flinhong.com/2017/03/18/syntax-highlight-with-rouge-in-jekyll/
+      start_line: 1
 
 # Pagination
 paginate: 3

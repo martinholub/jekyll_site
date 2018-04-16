@@ -67,6 +67,7 @@ display: line;
     }
     h2{
         font-size:25px;
+        line-height: 1.75;
     }
 }
 
@@ -144,12 +145,14 @@ font-size: 36px;
 text-align: justify;
 h2 {
 font-size: 42px;
+line-height: 1.25;
 @include media-query($on-laptop) {
 font-size: 28px;
         }
     }
 h3 {
 font-size: 30px;
+line-height: 1.25;
 @include media-query($on-laptop) {
 font-size: 22px;
         }
