@@ -18,6 +18,7 @@ plugins:
     - jekyll-github-metadata
     - jekyll-twitter-plugin
     - github-pages
+    - jekyll-jupyter-notebook
 
 plugins_dir: ./_plugins
 
