@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Project#3
-description: mock project
-img:
-redirect: /
+title: Using Theano and Tensorflow to Solve SDEs
+description: Fun Coding Project
+redirect: /eth/code/2018/05/01/TheanoTensorflowSDE.html
+img: /img/dlbio_header.png
 ---
-no text

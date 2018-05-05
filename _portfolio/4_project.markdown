@@ -2,6 +2,7 @@
 layout: post
 title: Project#4
 description: mock project
-img: 
+redirect: /about
+img:
 ---
 no text
