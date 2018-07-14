@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project#4
-description: mock project
-redirect: /about
-img:
+title: Reinforcement Learning
+description: Teaching AI to play Atari
+redirect: /eth/code/2018/07/14/ReinforcementLearning.html
+img: /img/rl/breakout.gif
 ---
-no text
+<!-- {{ site.baseurl }}/img/rl/breakout.gif -->

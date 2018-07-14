@@ -8,7 +8,8 @@
         <!-- {{ site.title }} instead of blog -->
         <a class="page-link" href="{{ site.baseurl }}/">blog</a>
 
-        {% for page in site.pages %}
+        <!-- ( for page in site.pages )  was previously-->
+        {% for page in site.data.navbar.docs %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}

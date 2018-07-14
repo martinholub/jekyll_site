@@ -1,4 +1,4 @@
-GH_PAGES_DIR = "blog"
+GH_PAGES_DIR = "blog_generated"
 
 desc "Build Jekyll site and copy files"
 task :build do

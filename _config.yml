@@ -19,6 +19,7 @@ plugins:
     - jekyll-twitter-plugin
     - github-pages
     - jekyll-jupyter-notebook
+    - jekyll-gist
 
 plugins_dir: ./_plugins
 
