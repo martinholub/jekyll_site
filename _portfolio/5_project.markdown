@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project#5
-description: mock project
-redirect: /about
-img:
+title: CharIoTeer
+description: Smart Last-Mile Delivery Project @MakeZurich
+redirect: /eth/code/2018/07/15/MakeZurich.html
+img: /img/mkzh/hw2.jpg
 ---
-no text
+<!-- {{ site.baseurl }}/img/mkzh/hw2.jpg -->

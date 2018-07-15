@@ -9,6 +9,10 @@ description: |
     In this post, I will demonstrate and explain reinforcement learning code I developed. You will learn how one can train an AI agent to master Atari games and understand the technology behind DeepMind's AlphaGo, the first computer program to defeat professional human Go player.
 ---
 
+<div class="img_row" style="width: 90%;">
+  <img class="col three" src="/img/rl/breakout_head.jpg" alt="" title="Header" />
+</div>
+
 In this post, I will demonstrate and explain [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) code I developed. You will learn how one can train an AI agent to master Atari games and understand the technology behind [DeepMind's AlphaGo](https://deepmind.com/research/alphago/), the first computer program to defeat professional human Go player. This will be fun and, surprisingly, simple, so let's dive in.
 
 ## OpenAI Gym
@@ -16,6 +20,13 @@ In this post, I will demonstrate and explain [Reinforcement Learning](https://en
 [OpenAI's `gym`](https://github.com/openai/gym) is a toolkit for developing and comparing reinforcement learning algorithms. [Big standardized datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research) have proven pivotal in development of deep learning algorithms. Similarly, collection of test problems, environments, as provided by `gym` aids in evaluation of reinforcement learning algorithms when an agent learns to take actions in response to observations from environment to "solve it". All that comes below is enabled by the work of guys at OpenAI. Hat tip to them.
 
 ## The CartPole Problem
+
+<div class="img_row" style = "width: 75%;">
+  <img class="col three" src="{{ site.baseurl }}/img/rl/cartpole.gif" alt="" title="CartPole Agent"/>
+</div>
+<div class="col three caption">
+Trained agent skillfully balancing the pole on the cart
+</div>
 
 The `CartPole-v0` environment is a reinforcement learning (RL) equivalent of *Hello World!*. As such, it is sufficiently simple to get us started. It is a form of the classic control problem of inverted pendulum where we balance a pole by moving a cart it is attached to either left or right. The environment is considered solved when the average reward is greater than or equal to 195.0 over 100 consecutive trials. You can check the environment's spec's at its [wiki](https://github.com/openai/gym/wiki/CartPole-v0).
 
