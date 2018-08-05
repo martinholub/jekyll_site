@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 title: CharIoTeer, Smart Last-Mile Delivery Project @MakeZurich
-date: 2018-07-15 12:42
+date: 2018-08-05 16:02
 tags: ETH projects code hardware Arduino
 categories: ETH code
 description: |
@@ -21,11 +21,11 @@ In this post, I will tell you about an exciting [IoT](https://en.wikipedia.org/w
 
 ## MakeZurich
 
-MakeZurich is the "Civic Tech and LoRaWAN Hackdays for a better city". It is organized jointly with the city administration to explore new ways of solving challenges the city is facing with the help of open networks and civic tech. I missed the first run, that took place last year, because I found out about the event too late. This year, I had it in my calendar and was ready to take part. The event had a smell of a hackathon: difficult and open-ended challenges to be tackled in innovative fashion in too little time in small teams, mostly with people you didn't know before the kickoff. But it was more than that. Rather than hackathon, one could call it Makerdays or Hackdays. It lasted for full 8 days, and on each day a makerspace was open so that I could just drop by, ask people about technical issues I was having and hack on the prototype and code for our project. In retrospect, I view the event as great learning experience that gave me quick insight into the field of IoT and LoRaWAN (Big thanks to the organizers for all their work, it showed).
+MakeZurich is the "Civic Tech and LoRaWAN Hackdays for a better city". It is organized jointly with the city administration to explore new ways of solving challenges the city is facing with the help of open networks and civic tech. I missed the first run, that took place last year, because I found out about the event too late. This year, I had it in my calendar and was ready to take part. The event had a smell of a hackathon: difficult and open-ended challenges to be tackled in innovative fashion in too little time in small teams, mostly with people you didn't know before the kickoff. But it was more than that. Rather than hackathon,it were Makerdays or Hackdays. It lasted for full 8 days, and on each day a makerspace was open so that I could just drop by, ask people about technical issues I was having and hack on the prototype and code for our project. In retrospect, I view the event as great learning experience that gave me quick insight into the field of IoT and LoRaWAN. (Big thanks to the organizers for all their work, it showed!)
 
 ## LoRaWAN
 
-LoRa what? Me myself, I didn't know anything about the [Long Range Wide Area Network](https://www.thethingsnetwork.org/docs/lorawan/) until about one week before the event, but I came to understand that it is a very interesting player in the landscape of wireless communication technologies. It is designed to allow low-powered devices to communicate with Internet-connected applications over long range wirelessly. It is well suited for applications with very low bandwidth, something up to 400 bytes/hour, where individual message should not exceed 12 bytes.
+LoRa what? Myself, I didn't know anything about the [Long Range Wide Area Network](https://www.thethingsnetwork.org/docs/lorawan/) until about one week before the event, but I came to understand that it is a very interesting player in the landscape of wireless communication technologies. It is designed to allow low-powered devices to communicate with Internet-connected applications over long range wirelessly. It is well suited for applications with very low bandwidth, something up to 400 bytes/hour, where individual message should not exceed 12 bytes.
 
 The following picture will give you an idea how a device (node) communicates with internet application via LoRaWAN:
 
@@ -57,7 +57,7 @@ If you want to dig deeper into how LoRaWAN and The Things Network work, visit th
 
 ## The Challenge
 
-The MakeZurich Makerdays revolved around 7 challenges that were crafted with the participation of the city administration (you can see all of them [here](https://speakerdeck.com/gonzalocasas/make-zurich-vol-ii-kick-off)). These are the challenges that the city currently faces and that it is seeking solutions for. Our team, made up of an internet entrepreneur, project manager, data scientist and me, chose to work on a challenge termed "Conquering The Last Mile". We were working closely with a Swiss company providing logistic services, mainly last-mile bicycle package delivery, in many cities in Switzerland.
+The MakeZurich Makerdays revolved around 7 challenges that were crafted with the participation of the city administration (you can see all of them [here](https://speakerdeck.com/gonzalocasas/make-zurich-vol-ii-kick-off)). These are real-world challenges that the city is facing and that it is seeking solutions for. Our team, made up of an internet entrepreneur, project manager, data scientist and me, chose to work on a challenge termed "Conquering The Last Mile". We were working closely with a Swiss company providing logistic services, mainly last-mile bicycle package delivery, in many cities in Switzerland.
 
 
 <div class="img_row" style = "width: 70%;">
@@ -86,7 +86,7 @@ The prototype of a device that makes last-mile delivery smart
 
 ### Talking with The Things Network
 
-Previously, I wrote about the limitations on payload size imposed by the LoRa or TTN.  In practice, this means, one has to think a bit about what information needs to be transmitted and how often. Sending data as plain text or `JSON` is a no-go, therefore I encoded the messages as bytes. The message is then decoded in the online application using the same operations used for encoding, just in reverse. Let's look at an example for the GPS data:
+Previously, I wrote about the limitations on payload size imposed by the LoRa or TTN.  In practice, this means, one has to think a bit about what information needs to be transmitted and how often. Sending data as plain text or `JSON` is a no-go, therefore I encoded the messages as bytes. The message is then decoded in the online application using reverse of operations that were used for encoding. Let's look at an example for the GPS data:
 
 #### Encoder
 
@@ -145,7 +145,7 @@ Collecting data in the wide open
 
 ## Conclusion
 
-During MakeZurich our team prototyped a microcontroller based device that can make last-mile delivery smarter. We call it CharIoTeer. In just one week, we came up with fully functioning prototype that is portable and communicates its measurements over LoRa and The Things Network. For me, the project was great opportunity to work hard, have fun and quickly pick up practical skills in LoRaWAN and electronics, mainly by interacting with other people and asking lot of questions. I am excited about digging deeper into the domain of IoT, with focus on Industrial IoT and machine to machine communication. What about implementing IoT paradigm in a biology lab to achieve unparalleled throughput, big data harvesting, end-to-end process control and automate decision making? Sounds both feasible and fun to me:)
+During MakeZurich our team prototyped a microcontroller based device that can make last-mile delivery smarter. We call it CharIoTeer. In just one week, we came up with fully functioning prototype that is portable and communicates its measurements over LoRa and The Things Network. For me, the project was great opportunity to work hard, have fun and quickly pick up practical skills in LoRaWAN and electronics prototyping, mainly by interacting with other people and asking lot of questions. I am excited about digging deeper into the domain of IoT, with focus on Industrial IoT and machine to machine communication. What about implementing IoT paradigm in a biology lab to achieve unparalleled throughput, big data harvesting, end-to-end process control and automate decision making? Sounds both feasible and fun to me:)
 
 ---
 ## Resources
