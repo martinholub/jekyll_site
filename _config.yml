@@ -10,7 +10,7 @@ github_username:  martinholub
 
 repository: martinholub/martin-holub.github.io
 github: [metadata]
-exclude: [Rakefile, _portfolio/7_project.markdown]
+exclude: [Rakefile]
 
 plugins:
     - jekyll-paginate

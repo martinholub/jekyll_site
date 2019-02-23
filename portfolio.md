@@ -3,13 +3,15 @@ layout: page
 title: projects
 permalink: /portfolio/
 ---
-<!---
-{% assign shuffled_portfolio = site.portfolio | shift | sample: 6 %}
-{% for project in shuffled_portfolio %}
-{% endfor %}
+<!--
+{% assign shuffled_portfolio = site.portfolio | shift | sample: 7 %}
 -->
 
 {% for project in site.portfolio %}
+
+{% if project.title == "Martin for ETH Zürich iGEM Team 2019" %}
+{% else %}
+
 {% if project.redirect %}
 <div class="project">
     <div class="thumbnail">
@@ -47,8 +49,10 @@ permalink: /portfolio/
 </div>
 
 {% endif %}
+{% endif %}
 
 {% endfor %}
+
 <br/>
 <hr/>
 <br/>
