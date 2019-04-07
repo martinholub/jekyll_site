@@ -1,8 +1,8 @@
 docs_list_title: Default Navbar
 docs:
 
-- title: about
-  url: /about
+- title: blog
+  url: /blog
 
 - title: projects
   url: /portfolio
