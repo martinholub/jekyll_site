@@ -10,6 +10,8 @@ layout: default
   <br/>
 </div>
 
+<div id="wrapper">
+<div id="post-list-index">
 <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -60,10 +62,13 @@ layout: default
 </div>
 {% endif %}
 
+</div>
+
 <div class='jekyll-twitter-plugin'>
-    {% twitter https://twitter.com/holub_martin maxwidth=300 maxheight=500
+    {% twitter https://twitter.com/martinholub_ maxwidth=300 maxheight=500
         chrome=noheader%20nofooter%20transparent%20noborders"
         limit=6 link_color=#11D68B border_color=#fdfdfd dnt=true %}
 
     <!--- comment --->
+</div>
 </div>
