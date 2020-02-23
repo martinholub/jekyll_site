@@ -26,20 +26,8 @@ In my spare time, I love to cook, move around, enjoy art, tinker with microcontr
 To find out more, check my <a href="#contacticon-center">social-networks profiles</a> or send me an <a href="mailto:mholub.ethz=gmail+com">e-mail</a>.
 
 <br/>
-
-<br/>
 <br/>
 <hr/>
 <br/>
-<span class="contacticon center" id="contacticon-center">
-	<a href="mailto:mholub.ethz=gmail+com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://twitter.com/martinholub_" target="_blank"><i class="fa fa-twitter-square"></i></a>
-	<a href="https://www.linkedin.com/in/holubmartin" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="https://www.researchgate.net/profile/Martin_Holub2" target="_blank"><i class="ai ai-researchgate-square"></i></a>
-	<a href="https://github.com/martinholub" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="/feed.xml" target="_blank"><i class="fa fa-rss-square"></i></a>
-</span>
 
-<div class="col three caption">
-	This site was created using <a href="https://jekyllrb.com/" target="blank">Jekyll</a> and building on <a href="https://github.com/bogoli/-folio" target="blank">*folio theme</a>. Hosted on <a href="https://github.com/" target="blank">GitHub</a>.
-</div>
+<span class="contacticon center" id="contacticon-center"></span>

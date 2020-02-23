@@ -4,5 +4,14 @@ docs:
 - title: blog
   url: /blog
 
+- title: research
+  url: /research
+
+- title: papers
+  url: /papers
+
+- title: pointers
+  url: /pointers
+
 - title: projects
   url: /portfolio

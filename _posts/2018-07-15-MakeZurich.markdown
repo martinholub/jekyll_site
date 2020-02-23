@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title: CharIoTeer, Smart Last-Mile Delivery Project @MakeZurich
 date: 2018-08-05 16:02
-tags: ETH projects code hardware Arduino
+tags: ETHZ project code hardware
 categories: ETH code
 description: |
     In this post, I will tell you about an IoT device me and my team prototyped at MakeZurich week-long Makerdays. Keep reading if you are a maker, IoT enthusiast or a person interested in using IoT principles in a real world scenario.

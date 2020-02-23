@@ -286,6 +286,15 @@ font-size: $caption_font_size;
 */
 .jekyll-twitter-plugin{
     text-align: center;
+    flex-grow: 1;
+}
+/*Positioning of Tags*/
+.undeposts-wrapper{
+    display: flex;
+    width: 100%;
+}
+.underpost-archive{
+    width: 30%;
 }
 /**
  * Sharing buttons **********************************************************
@@ -339,3 +348,7 @@ font-size: $caption_font_size;
   .e:hover {
     color: #fff;
     background-color: #444444; }
+/**
+ * Spotify **********************************************************
+*/
+@import "spotify-embed";

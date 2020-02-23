@@ -2,7 +2,7 @@
 layout: post
 title: Machine Learning - MRI Analysis Project (Part II)
 date: 2017-06-05 15:22
-tags: Machine-Learning Projects ETHZ
+tags: ML project ETHZ
 categories: projects
 description: |
     Although we have discussed quite few steps so far, they were only preparatory (albeit necessary and crucial) and it is only now, in model selection phase, that we actually get our hands on machine learning algorithms. We can further divide this phase into two steps – training and validation. Let’s look at training first.

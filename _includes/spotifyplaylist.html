@@ -1,0 +1,15 @@
+<!-- source https://github.com/andriannp/spotify-embed-on-Jekyll -->
+<!-- use: {% include spotifyplaylist.html id=page.spotifyplaylist %} -->
+
+<div class="embed-spotify">
+ <iframe src="https://open.spotify.com/embed/user/{{ include.id }}"
+        width="700"
+        height="480"
+        frameborder="0"
+        allowtransparency="true"
+        allow="encrypted-media"
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen>
+</iframe>
+</div>

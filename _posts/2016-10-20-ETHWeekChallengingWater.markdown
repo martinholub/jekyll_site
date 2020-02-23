@@ -2,8 +2,8 @@
 layout: post
 title: ETHWeek - Challenging Water
 date: 2016-10-22 18:49
-categories: ETH
-tags: projects reflections eth
+categories: ETHZ
+tags: ETHZ project
 description: |
     How did you start your day this morning? First, I hope that well. Second, I guess that you did at least one of these: made yourself a coffee, brushed your teeth or took a shower. And to assume this, I don’t have to be particularly good in guessing. This is how millions of people start their day. But these activities have more in common. All of them would be either significantly different or even impossible without water running out of our taps. Luckily, clean drinking water is an infinite resource. Or isn’t it?
 ---
