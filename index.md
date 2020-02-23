@@ -23,7 +23,7 @@ I obtained Bachelor’s degree from <a href="https://www.vutbr.cz/en/" target="b
 
 In my spare time, I love to cook, move around, enjoy art, tinker with microcontrollers or work on my bike. I am a dog person but have both a dog and a cat. In past, I was on Czech National Junior Ultimate Frisbee team and I am ready to argue with anobody who deems there may be a better sport than Ultimate.
 
-To find out more, check my <a href="#contacticon-center">social-networks profiles</a> or send me an <a href="mailto:mholub.ethz=gmail+com">e-mail</a>.
+To find out more, check my <a href="#contacticon-center">social-networks profiles</a>, browse the <a href="{{ site.baseurl }}/pointers/" target="blank">pointers section</a> or send me an <a href="mailto:mholub.ethz=gmail+com">e-mail</a>.
 
 <br/>
 <br/>

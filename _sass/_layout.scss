@@ -143,11 +143,19 @@ font-size: 36px;
 }
 .post-content {
 text-align: justify;
-h2 {
+h1 {
 font-size: 42px;
+font-weight: bold;
 line-height: 1.25;
 @include media-query($on-laptop) {
 font-size: 28px;
+        }
+    }
+h2 {
+font-size: 36px;
+line-height: 1.25;
+@include media-query($on-laptop) {
+font-size: 26px;
         }
     }
 h3 {
