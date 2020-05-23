@@ -8,62 +8,32 @@ Below you will find loosely organized database of pointers and resources that I 
 
 # research
 Let's kick off with pointers related to my work and research.
+
 ## resources
-
-### genome organization
-* <a href="https://www.nature.com/collections/rsxlmsyslk" target="blank">3D genome collection</a>
-* <a href="https://www.cellsignal.com/contents/resources-reference-tables/histone-modification-table/science-tables-histone" target="blank">Histone modification table</a>
-
-### synthetic biology
-* <a href="https://www.youtube.com/channel/UCoKnP5yh_Z4DtNffHYYEScw" target="blank">Synthetic Biology One</a> is a fun online free course in synthetic biology at undergrad level.
-
-### general biology
-* <a href="https://dnalc.cshl.edu/resources/animations/" target="blank">Biology animations</a>
-* <a href="http://book.bionumbers.org/" target="blank">Cell Biology by the Numbers</a>
-
-### scanning probe microscopy
-* <a href="https://www.youtube.com/user/AtomicForceMicro" target="blank">AttomicFroceMicro channel</a>
+[Link to resources]({{ site.baseurl }}/pages/research_resources)
 
 ## tools
-* <a href="http://higlass.io/" target="blank">Hi-glass</a> is a tool for exploring and compare genomic contact matrices and tracks
-* <a href="http://www2.bio.ku.dk/IDR/" target="blank">IDDomainSpotter</a> helps you identify disordered regions in AA sequence
-* Finding publications that address exactly what you are interested in can be tricky. <a href="https://www.wur.nl/en/article/How-to-use-Google-Scholar.htm" target="blank">Knowing how to use Google Scholar</a> and <a href="https://ahrefs.com/blog/google-advanced-search-operators/" target="blank">various search operators</a> (also <a href="https://support.google.com/websearch/answer/2466433?hl=en" target="blank">here</a>) will make your life much easier.
-* You are already using version control right? Then you will find it useful to set up <a href="https://coderwall.com/p/wkqf9q/local-global-git-config" target="blank">local and global git configurations</a>.
-* Sometimes you will feel like wasting some time reading blogs. To make this process somewhat less exhausting, use an RSS feed aggregator. I recommend <a href="https://www.inoreader.com/" target="blank">Inoreader</a>.
+[Link to tools]({{ site.baseurl }}/pages/research_tools)
 
-### reading and writing
-* <a href="https://rxivist.org/" target="blank">RXvisit</a> combines preprints from bioRxiv with data from Twitter to help you find the papers being discussed in your field.
-* <a href="http://www.arxiv-sanity.com/" target="blank">Arxiv-sanity</a> is an advanced version of the above, but available only for arxiv.
-* <a href="https://www.overleaf.com/" target="blank">Overleaf</a> is an online collaborative latex editor.
-* I use <a href="https://www.zotero.org/" target="blank">Zotero</a> for managing my refences. It is free, open-source and allows you to define your own location for file storage (i.e. making it practically unlimited).
-* Writing a good research grant proposal is not easy. <a href="https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/" target="blank">How to write a great research proposal</a> is an attempt to collect together a number of suggestions about what makes a good proposal.
-
-### project management
-* I use <a href="https://app.asana.com/" target="blank">Asana</a> to manage my projects and recently also time I spend on them.
-
-## conferences
-* I once made <a href="https://drive.google.com/file/d/15NWYOU4CvkaLkxxYP15TTB1sX2p_Qrj8/view?usp=sharing" target="blank">rather extensive list </a>of conferences related to chromatin organization. It dates back to 2020, but may be still useful for somebody entering the field.
+## events
+[Link to events]({{ site.baseurl }}/pages/research_events)
 
 ## presenting
-* How to present a successful <a href="https://mitcommlab.mit.edu/broad/commkit/elevator-pitch/" target="blank">elevator pitch</a>?
-* <a href="https://www.toastmasters.org/" target="blank">Toastmasters</a> is a fantastic organization that can help you work on you speaking skills almost anywhere in the world.
-* Guide on <a href="https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57" target="blank">The Art of Effective Visualization of Multi-dimensional Data<a/>.
-
-### statistics
-* <a href="https://video.ethz.ch/conferences/2017/proteomics/day3/f10a40f3-a313-4987-807b-0e6af8939e5b.html" target="blank">Introduction to experimental design and statistical analysis</a>
-<a href="https://www.nature.com/articles/nmeth.2813" target="blank">Visualizing samples with box plots</a> and the whole <a href="https://www.nature.com/collections/qghhqm" target="blank">Statistics for Biologists</a> collection
-
+[Link to advice on presenting]({{ site.baseurl }}/pages/research_present)
 
 ## advice
-* <a href="https://www.youtube.com/watch?v=a1zDuOPkMSw" target="blank">You and your research by Richard Hamming</a>.
-  * Still relevant advice on how to do research. Richard Hamming is a strong character and you can easily find yourself disagreeing with many things he says. Some parts are still relevant today and the make the talk worth a watch.
-* <a href="http://karpathy.github.io/2016/09/07/phd/" target="blank">Survival Guide to a PhD by Andrej Karpathy</a>
-* <a href="https://leanpub.com/modernscientist" target="blank">How to be a modern scientist by Jeff Leek</a>
-* <a href="https://www.nature.com/articles/d41586-018-07332-x" target="blank">Twenty things I wish I’d known when I started my PhD</a>
+[Link to advice on being a researcher]({{ site.baseurl }}/pages/research_advice)
+
+## czech and slovak scientists you should know
+You will find the list [here]({{ site.baseurl }}/pages/czech_slovak_scientists)
+
+## research fun
+Who would say that science can be so much [fun]({{ site.baseurl }}/pages/research_fun)
 
 <br/>
 <hr/>
 <br/>
+
 # making & hacking
 * <a href="https://sph.ethz.ch/" target="blank">Student Project House<a/>
   * Makerspace at ETH
