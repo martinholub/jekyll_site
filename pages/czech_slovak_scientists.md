@@ -11,6 +11,7 @@ There is plenty of people that left the former Czechoslovakia to be able to do w
  * [Bazant, Zdenek](https://en.wikipedia.org/wiki/Zden%C4%9Bk_P._Ba%C5%BEant): Solid mechanics
  * [Svoboda, Karel](https://en.wikipedia.org/wiki/Karel_Svoboda_(scientist)): Neuroscentist at Janelia
  * [Jinek, Martin](https://www.bioc.uzh.ch/teaching/study-overview/lecturers/martin-jinek/): CRISPR
+ * [Krivanek, Ondrej](https://en.wikipedia.org/wiki/Ondrej_Krivanek): Electron-optical instrumentation
 
 
  Here are some from further ago, some of which may have been born to Czechoslovak parents outside of the country:
