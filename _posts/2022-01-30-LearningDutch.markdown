@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Became Conversationalist in Dutch in Less Than Six Months and Without an Instructor
+title: How I Became Conversational in Dutch in Less Than Six Months and Without an Instructor
 date: 2022-01-30 20:00
 tags: Dutch education
 categories: education Dutch
