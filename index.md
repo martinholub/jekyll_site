@@ -21,7 +21,7 @@ I got my Masters’ from <a href="http://www.ethz.ch/en/" target="blank">ETH Zü
 My Eastern-European accent, as well as love for any meal that contains way too much potatoes, is from the Czech Republic where I was born and raised. My Bachelor’s is then from <a href="https://www.vutbr.cz/en/" target="blank"> Brno University of Technology (BUT)</a> where I worked on biosensors and microfluidics. 
 
 
-My friends know me as someone whose palette of hobbies is surpassed in richness only by the variety of words the Dutch have for rain (more than a hundred) which probably explains why I mostly suck at them.
+My friends know me as someone whose palette of hobbies is surpassed in richness only by the variety of words the Dutch have for rain (more than a hundred) which probably explains why I cannot stop talking about them.
 
 
 Curious to know more – hit me up on <a href="#contacticon-center">socials</a> or send me an <a href="mailto:mholub.ethz=gmail+com">e-mail</a>.
