@@ -3,7 +3,7 @@ layout: post
 title: To accept or not to accept, that is the question
 date: 2016-10-01 19:49
 category: Tristium Turicum
-tags: ETHZ
+tags: uni ethz
 description: |
     Imagine that one day someone knocks on your door. A stranger. And at his feet, there lies a package. A package so big that he had to put it down to free his hands to knock. It is wrapped to impress - in bright colors with a shiny ribbon. You immediately wonder about the contents. And the stranger says to you: “I offer you this present but I don’t know what is inside. It is possible that it will be entirely good for you, it may also be entirely bad. But most likely there is both of those, mixed at unknown ratio.” Would you be tempted to open this package? Almost certainly you would. And would you open it?
 ---

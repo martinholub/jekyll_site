@@ -3,8 +3,8 @@ layout: post
 mathjax: true
 title: Using Deep Learning Libraries to Solve Stochastic Differential Equations
 date: 2018-05-01 16:42
-tags: ETH projects code
-categories: ETH code
+tags: ethz projects code
+categories: ethz code
 description: |
     Most of you have heard about many of the deep learning libraries out there including TensorFlow, Theano, Keras and PyTorch. They facilitate building of layered and potentially complex neural network models for areas as diverse as automatic image captioning, speech recognition, and drug design. In this article, I will make use of these developments to implement two stochastic models from systems biology and solve them efficiently using the computational graph paradigm of `Theano` and `TensorFlow`.
 ---

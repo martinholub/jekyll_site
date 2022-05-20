@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title: Geometric principles underlying the proliferation of a model cell system
 date: 2020-05-07 18:02
-tags: prelight science
+tags: phd science
 categories: science
 description: |
     I have joined preLights and now will be highlighting a new exciting preprint now and then! For my first article, I have chosen a Bioarxiv paper by Wu et al. where they study cell-wall compromised bacteria and show that chromosome positioning and segregation is controlled by their geometry.

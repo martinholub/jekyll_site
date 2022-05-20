@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: ETHZ"
-tag: ETHZ
+title: "Tag: ethz"
+tag: ethz
 ---
