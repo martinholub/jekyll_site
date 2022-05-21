@@ -1,7 +1,7 @@
 ---
 layout: page
-title: pointers
-permalink: /pointers/
+title: resources
+permalink: /resources/
 spotifyusername: holubm
 ---
 Below you will find loosely organized database of pointers and resources that I found useful in various domains of my life or that I think are otherwise worth sharing with you.
@@ -9,7 +9,7 @@ Below you will find loosely organized database of pointers and resources that I 
 # research
 Let's kick off with pointers related to my work and research.
 
-## resources
+## knowledge base
 [Link to resources]({{ site.baseurl }}/pages/research_resources)
 
 ## tools
@@ -24,7 +24,7 @@ Let's kick off with pointers related to my work and research.
 ## advice
 [Link to advice on being a researcher]({{ site.baseurl }}/pages/research_advice)
 
-## czech and slovak scientists you should know
+## czech and slovak scientists
 You will find the list [here]({{ site.baseurl }}/pages/czech_slovak_scientists)
 
 ## research fun
@@ -60,18 +60,18 @@ Being in research is overwhelming and often exhausting. I am firmly convinced th
 
 ## art and related
 
-### visual arts
+#### visual arts
 * <a href="https://www.boredpanda.com/accidental-renaissance/?utm_source=google&utm_medium=organic&utm_campaign=organic" target="blank">Accidental Renaissance<a/>
 * <a href="http://www.bigpixel.cn/works.html" target="blank">Big Pixel<a/>
 
-### music
+#### music
 Here is link to my Spotify profile: {% include spotifyprofile.html id=page.spotifyusername %}
 
 ### books
-I read a lot, although much less than I would like to :). I maintain a list of books I have read on <a href="https://www.goodreads.com/user/show/92718688-martin" target="blank">Goodreads</a> and <a href="https://www.cbdb.cz/uzivatel-7140-jj" target="blank">CBDB</a> (in Czech).
+I read a lot, although much less than I would like to :). I maintain a list of books I have read on <a href="https://www.goodreads.com/user/show/92718688-martin" target="blank">Goodreads</a>. I am happy for any book recommendations you would like to share
 
 ### podcasts
-I enjoy podcasts where I learn something new or that made me laugh hard. I am still searching for a good way how to share them here. In the meantime, just ask me if you are interested.
+I enjoy podcasts where I learn something new or that made me laugh hard. I am still searching for a good way how to share them here. In the meantime, if you would like to share a podcast recommendation or needed a tip, get in touch!
 
 ### blogging
 * I can highly recommend that you start off with <a href="https://jekyllrb.com/" target="blank">Jekyll</a> and <a href="https://pages.github.com/" target="blank">GitHub Pages</a>. It is free and works across platforms.

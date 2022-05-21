@@ -7,15 +7,20 @@ docs:
 - title: research
   url: /research
 
-- title: papers
-  url: /papers
-
-- title: pointers
-  url: /pointers
-
 - title: projects
   url: /portfolio
-  
+
+- title: fitness
+  url: /fitness
+
+- title: longboard
+  url: /longboard
+
+- title: arts
+  url: /arts
+
+- title: resources
+  url: /resources
+
 - title: subscribe
   url: /subscribe
-

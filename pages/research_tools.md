@@ -20,4 +20,4 @@ permalink: /pages/research_tools
 * Writing a good research grant proposal is not easy. <a href="https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/" target="blank">How to write a great research proposal</a> is an attempt to collect together a number of suggestions about what makes a good proposal.
 
 ### project management
-* I use <a href="https://app.asana.com/" target="blank">Asana</a> to manage my projects and recently also time I spend on them.
+* I use <a href="https://app.asana.com/" target="blank">Asana</a> to manage my projects and [ZimWiki](https://zim-wiki.org/) to keep detailed track of my work.
