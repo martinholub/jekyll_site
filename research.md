@@ -4,9 +4,11 @@ title: research
 permalink: /research/
 ---
 
-I am currently researching the spatio-temporal organizing principles of megabase chromosomes as a PhD candidate in the group of [Cees Dekker](https://ceesdekkerlab.nl/) at the [Department of Bionanoscience](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/) at the [Kavli Institute of Nanoscience in Delft](http://kavli.tudelft.nl/).
+I am currently researching the spatio-temporal organizing principles of megabase chromosomes as a PhD candidate in the group of [Cees Dekker](https://ceesdekkerlab.nl/) at the [Department of Bionanoscience](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/) at the [Kavli Institute of Nanoscience in Delft](http://kavli.tudelft.nl/). I conduct experiments with bacterial DNA in microfabricated compartments that shed light on how tiny proteins and enzymes control its organization and how this, in turn, results in patterns of gene expression. By understanding different ways how a particular protein influences expression of genes, we gain information that can be used to for example develop new antibiotic compounds and build functional synthetic chromosomes from the bottom up.
+
 
 We have various open student projects for bachelor and master students (including exchange) who want to do experimental wotk at the interface of biophysics, molecular biology, synthetic biology, and microfludics and nanoscience. We can further offer image analysis projects for students with previous experience in Python. Please drop me an <a href="mailto:mholub.ethz=gmail+com">e-mail</a> if you are interested, I am happy to discuss and tailor project to your interests!
+
 
 # publications
 

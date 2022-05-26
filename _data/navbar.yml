@@ -7,17 +7,14 @@ docs:
 - title: research
   url: /research
 
-- title: projects
-  url: /portfolio
+- title: outreach
+  url: /outreach
 
 - title: fitness
   url: /fitness
 
 - title: longboard
   url: /longboard
-
-- title: arts
-  url: /arts
 
 - title: resources
   url: /resources

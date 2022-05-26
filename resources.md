@@ -65,7 +65,7 @@ Being in research is overwhelming and often exhausting. I am firmly convinced th
 * <a href="http://www.bigpixel.cn/works.html" target="blank">Big Pixel<a/>
 
 #### music
-Here is link to my Spotify profile: {% include spotifyprofile.html id=page.spotifyusername %}
+Here is link to my [Spotify profile](https://open.spotify.com/user/holubm?si=d8e8212666a54a14): {% include spotifyprofile.html id=page.spotifyusername %}
 
 ### books
 I read a lot, although much less than I would like to :). I maintain a list of books I have read on <a href="https://www.goodreads.com/user/show/92718688-martin" target="blank">Goodreads</a>. I am happy for any book recommendations you would like to share
