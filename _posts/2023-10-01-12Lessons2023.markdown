@@ -2,8 +2,8 @@
 layout: post
 title: 12 Lessons I Learnt In the Past 12 Months
 date: 2023-10-01 15:56
-tags: blog essay
-categories: blog essay
+tags: essay
+categories: essay
 description: |
     I celebrated my birthday past weekend and wanted to use this moment to reflect on how the year has been. Here is a list of twelve lessons the year taught me. Admittedly, I am not the best student so I have to keep relearning them as I go, therfore writing them down. Couple of them should be useful for you as well! If a particrular one resonates, I would be happy to hear about it!
 ---
