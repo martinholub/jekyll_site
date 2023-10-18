@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: ethz"
-tag: ethz
+title: "Tag: diet"
+tag: diet
 robots: noindex
 ---
