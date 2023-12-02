@@ -61,6 +61,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+  research:
+    output: true
+    permalink: /research/:path/
 #  poetry:
 #   output: false
 #    permalink: /poetry/:path/
@@ -132,4 +135,4 @@ name: Martin Holub Blog
 title: Martin Holub Blog
 description: Personal Blog
 author: Martin Holub
-url: http://www.martinholub.com/
+url: https://www.martinholub.com/

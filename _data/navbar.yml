@@ -1,20 +1,23 @@
 docs_list_title: Default Navbar
-docs:
 
+docs:
 - title: blog
   url: /blog
 
 - title: research
   url: /research
 
-- title: outreach
-  url: /outreach
+#- title: outreach
+#  url: /outreach
 
-- title: fitness
-  url: /fitness
+#- title: fitness
+#  url: /fitness
 
-- title: longboard
-  url: /longboard
+#- title: biosecurity
+#  url: /biosecurity
+  
+#- title: synthetic-biology
+#  url: /synbio
 
 - title: resources
   url: /resources

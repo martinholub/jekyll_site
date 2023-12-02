@@ -207,8 +207,8 @@ display: table;
 clear: both;
 }
 .project {
-width: 33.33%;
-height: 250px;
+width: 50.0%;
+aspect-ratio: 1;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
@@ -221,11 +221,11 @@ overflow: hidden;
 font-size: $small-font-size;
 }
 .thumbnail img{
-width: 500px;
+width: 100%;
 height: auto;
 position: relative;
-left: -25%;
-top: -5%;
+vertical-align: middle;
+margin: auto;
 }
 .thumbnail a{
 float: left;
