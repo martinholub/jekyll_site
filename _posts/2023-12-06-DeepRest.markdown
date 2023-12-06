@@ -1,0 +1,60 @@
+---
+layout: post
+title: Prioritizing the Right Type of Rest May Be the Best Biohack. Here Is Why.
+date: 2023-12-06 08:56
+tags: health science mind
+categories: health
+description: |
+    ‘How are you’ is a standard question we get, but how about the following ones: Do you like being busy? Does ‘busyness’ work for you? Are you getting enough rest and in the right form? These are quite simple questions but strangely enough, we rarely raise them with our friends, or ourselves.
+---
+
+Kate woke up early, knowing she had a packed day ahead of her. She went through her morning routine assuredly and quickly. As usual, she brewed her favorite ginger-mint tea, this time with an extra drop of honey as if it could give her the extra energy, she felt she lacked after a poor night’s sleep. While waiting for the tea to cool down a bit, she quickly typed few supportive messages to her college best friend … her mother has recently gotten quite ill and the friend struggles to cope. Pity they cannot meet up she thought, by now they became geographically too separated. Before brushing her teeth, she put on music in the bathroom, her favorite singer just put out a new album and it’s really good. On her way out she passes by the bedroom to kiss her lover goodbye, and out she goes. No breakfast, that she will have to grab on her way.
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/trainwoman.jpg" alt="" title="Header"/>
+</div>
+<div class="col three caption">
+Photo by Jeffrey Czum on <a href="https://www.pexels.com/photo/time-lapse-photography-of-person-standing-near-train-2120010/">Pexels</a>.
+</div>
+
+Things go well for her at the office. The presentation she was nervous about runs well and she receives positive feedback from her supervisors, so the extra hours she has been putting in apparently have paid off. Some more meetings, a bit of editing work on a report she is finishing, a coffee break with coworkers. On the way home she stops by her favorite yoga studio as a small reward for the day. Finally, home, hungry as she had just a sandwich for lunch. The fridge is quite empty, and by now she is not in the mood for doing groceries, so it will be dinner delivery, maybe tacos? She finishes them while lounging on the sofa, rewatching one of her favorite shows while also texting her mum about the day she had, and looking up tickets for a concert that is coming up in her favorite club next month.
+
+#### Busy-ness has become the default condition
+
+This looks like an average day, doesn’t it? It even sounds quite nice. In many ways probably akin to your average day. If someone asked Kate, how is she doing, how likely do you think her answer would include the word ‘busy’ in it? Probably quite likely, and not dissimilar to how would you have replied. 
+‘How are you’ is a standard question we get, but how about the following ones: Do you think Kate likes being busy? Do you think ‘busyness’ works for her? Do you think she is getting enough rest and in the right form? These are quite simple questions, and the answers to them are not that difficult to guess, but strangely enough, we rarely raise them with our friends, or ourselves for that matter. So, in this post I want to ask them: **Do you like being busy? Are you getting an adequate amount of rest?**
+
+It has become the semi-default that we stopped questioning. Most of us lead busy lives. Maybe it’s the price we must pay to be financially comfortable? And why not actually? Many of us (including me) like it (maybe bit too much). But the moment you really let the question of whether you like being busy or not sink in, something changes. Because the chances are, you don’t. And even if you do like it, not all the time.
+
+#### Not all rest is made equal
+
+While most of us will probably be able to say that they are getting some rest during an average week, few will have a sense of whether it is enough or not. I certainly did not, until recently when I was prompted to think about times when I felt really relaxed. The middle-of-vacation falling asleep on a beach type of relaxed. Or when you have done a good yoga session and just sink down to savasana that you don’t want to end. You probably can think of similar experiences when obligations temporarily vanished from your horizon and your body melted as well. So sure, I have memories of feeling super relaxed, but when was the last time I got a chance to feel like it? It must be a while.
+
+As it turns out, **most of us are not getting enough rest**. Partially because we don’t get enough time in our busy lives for it, but **mainly because we are not prioritizing the right type of rest**. In her recent book, [The Stress Prescription](https://www.goodreads.com/book/show/60750102-the-stress-prescription), Elissa Epel defines four different mind states as they relate to stress, red mind (acute stress), yellow (baseline cognitive load), green mind (rest), blue mind (deep rest). We spend most of our days in the **yellow zone**. Not only at work, but also most of the time around it, when our mind is processing obligations, making plans, engaging in socially, or just plain scrolling or browsing on our devices. 
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/rest_stress_illustration.png" alt="" title="Header"/>
+</div>
+<div class="col three caption">
+Stress and rest scale illustration.
+</div>
+
+While the **red zone** looks down-right undesirable, it actually is a place we should **actively seek out**. It’s healthy to engage in activities that get you there for a limited period of time, provided they are self-inflicted (HIIT, cold and heat exposure, hyperventilation, …) as these **mount up your general stress resilience** on a long run. 
+**Green mind** is what we commonly associate with rest. It’s a pleasant state of relaxation when we are fully engaged in leisure activities. It’s a state when you are just being, not being asked to do something. This is facilitated by **observation and engagement in a single task** (so no multitasking). Think of being in nature or watching a performance. Watching a show on your TV at home would fit here as well, as long as you are fully immersed and don’t have your attention to repeatedly drift to your phone, the fridge, or some responsibilities coming up (which is unlikely - it’s easier to reach this state of mind in a theater or cinema, as your mind associates these places with the single task of observing art). Engaging in sports is an area that is ambiguous. At times you will be in the yellow or even red zones, at brief times in the green one. If you feel you are fully engaged (i.e. in a state of ‘flow’) you are probably in the green zone. It’s also something that has large learned factor to it – if you have been performing this sport or playing this game for some time already, such that you feel some sense of mastery doing it, the time you spend it the green zone will likely be higher.
+
+And how about the **blue zone**? It turns out that one is both **vital for restoration, and barely visited by most during wake time**. It’s a state of rest that occurs when we are in a quiet and safe environment, typically physically secluded, focusing on just one thing (e.g. our breath) or having attention openly drifting. This type of rest occurs during a deep sleep (and that also why it’s important to get enough sleep!) and during mind mind-body practices such as meditation.
+
+#### Getting enough deep rest is vital for health and wellbeing 
+
+After I learnt about this, I tried looking at my daily activities through the red-yellow-green-blue lens and realized that I am by far not prioritizing rest the way I thought I am, or nearly as much. Chances are you will feel the same. 
+
+Should you care? Is this anyhow a big deal? Well it kind of is. Researchers have looked at various ways people achieve deep rest (i.e., blue state of mind). In one study, they had people meditate for 20 minutes daily, and meet with a coach weekly. This not only left the people feeling better, but **resulted in positive gene expression changes related to energy metabolism, insulin secretion, telomere maintenance, and inflammation** ([Bhasin et al., 2013](https://doi.org/10.1371/journal.pone.0062817)). In another study, people were invited to join 6-day long meditation retreat and, again, left not only feeling better but also reporting similar health benefits on the gene expression level. This effect applied even to a control group, that just spent 6-day of free time, without meditation (something the researchers called the ‘vacation effect’), and was further strengthen in those who meditated and were accustomed to the meditation practice ([Epel et al., 2016](https://www.nature.com/articles/tp2016164)). As it turns out, **restorative rest is a powerful modulator of our health and biology**. Evidence suggests that **not leaving time and space for it can lead to disease and faster the progression of aging**.
+
+While on the face of it we do have enough time for leisure, and many would use it to also engage in it, we rarely see it as an opportunity to get deeply immersed in something. In fact, lot of things we would do in our leisure time, such as engaging in sports, catching up with friends, browsing the internet, are just the yellow time creeping in into our green and blue zones. Don’t get me wrong, these are important and fun, but we should not allow them to take up all our leisure time. We **must protect our time and capacity to engage if fully restorative rest**, to enter, and stay in, the green and blue states of mind. In terms of **return on investment, it may be one of the best things to do for our health and wellbeing**.
+
+---
+
+#### References
+
+* For more thorough write-up on deep rest, check the article *Deep Rest: An Integrative Model of How Contemplative Practices Combat Stress and Enhance the Body's Restorative Capacity* on [psyarxiv](https://psyarxiv.com/bkg3j/download?format=pdf).
+
