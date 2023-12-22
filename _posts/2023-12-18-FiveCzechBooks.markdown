@@ -28,7 +28,7 @@ Karel Capek was a writer extraordinaire who penned masterpieces of plays, novels
 
 [Goodreads link](https://www.goodreads.com/book/show/9151556-believe-in-people)
 
-###The Poetry of Jaroslav Seifert
+### The Poetry of Jaroslav Seifert
 
 Jaroslav Seifert is the only Czechoslovak who ever won a Nobel Prize in Literature "for his poetry which endowed with freshness, sensuality and rich inventiveness provides a liberating image of the indomitable spirit and versatility of man". A complicated figure in the Czech post-war history, he was a supporter of communism for many years before he started criticizing the party and siding with pro-democracy movements. Nevertheless, his poetry does match up to the Nobel Prize committee judgment.
 
