@@ -36,10 +36,12 @@ So I told you about three things that happened, and those were two so far. The l
 
 <div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/kaminsky_poem.jpg" alt="" title="poem from kaminsky"/> </div>
 <div class="col three caption">
-Poem by Ilya Kaminsky from his 2019 collection Deaf Republic. Image taken from <a href=" https://ericweinste.in/"> ericweinste.in</a>.
+Poem by Ilya Kaminsky from his 2019 collection Deaf Republic. Image taken from <a href=" https://ericweinste.in/">ericweinste.in</a>.
 </div>
 
----
+<br>
+<hr>
+<br>
 
 [^1]: For the very same reasons, I am also more wary of Germans, but to much smaller extent. Knowing many of them well, I know they have done a lot of soul searching and retrospection over the past decades, clearly demonstrating the departure from mindsets that perpetuated the World Wars.
-[^2]: The tension is there to stay. Either party finds themselves to be more in right than the other (see interviews with [Palestinians](https://www.youtube.com/watch?v=Ry6kpYFHnxs&ab_channel=CoreyGil-Shuster) and [Israeli](https://www.youtube.com/watch?v=JhSHTJr8S64&t=199s&ab_channel=CoreyGil-Shuster)), and I am in no way an arbiter of who is more right and who is not when it comes to the territorial conflict. I do however stand behind the statement that Israel is committing ethnic cleansing and that internationally we must require our leaders to call it what it is to work to stop it as soon as possible.
+[^2]: The tension is there to stay. Either party finds themselves to be more in right than the other (see interviews with [Palestinians](https://www.youtube.com/watch?v=Ry6kpYFHnxs&ab_channel=CoreyGil-Shuster) and [Israeli](https://www.youtube.com/watch?v=JhSHTJr8S64&t=199s&ab_channel=CoreyGil-Shuster)), and I am in no way an arbiter of who is more right and who is not when it comes to the territorial conflict. I do however stand behind the statement that Israel is committing ethnic cleansing and that internationally we must require our leaders to call it what it is and to work to stop it as soon as possible.
