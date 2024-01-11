@@ -8,6 +8,10 @@ description: |
     Several things happened over the course of this Christmas holiday. A bombing, a shooting and a poem. This post is about what ties them together, and you are not going to like it.
 ---
 
+<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/llmwar.jpeg" alt="" title="llm war prompt"/> </div>
+<div class="col three caption">
+Curiously, the model can provide an answer for many country pairs. Some are, however, censored out.</div>
+
 Several things happened over the course of this Christmas holiday. First, Russia carried out the [largest air attack on Ukraine since the beginning of their offense](https://www.reuters.com/world/europe/russia-launches-massive-air-attack-ukraine-least-10-dead-kyiv-2023-12-29/). Second, a man shot fourteen university students dead, wounding 25 and killing himself in [Prague mass school shooting](https://en.wikipedia.org/wiki/2023_Prague_shooting). Third, I read a poem that tied the events together in an unexpected way.
 
 ### Russia-Ukraine conflict
