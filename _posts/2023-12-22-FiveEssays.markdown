@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Essays That Challenged My Thinking This Year
-date: 2023-12-22 17:56
+date: 2023-12-22 17:53
 tags: essay literature
 categories: essay literature
 description: |

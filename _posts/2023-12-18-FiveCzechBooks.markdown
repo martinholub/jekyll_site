@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Books to Read to Better Understand Czech People
-date: 2023-12-17 11:56
+date: 2023-12-17 11:57
 tags: cz literature
 categories: cz literature
 description: |

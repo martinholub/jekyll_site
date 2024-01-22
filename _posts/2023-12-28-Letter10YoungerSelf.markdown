@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Letter to 10 Years Younger Self
-date: 2023-12-28 07:56
+date: 2023-12-28 08:13
 tags: essay 
 categories: essay
 description: |

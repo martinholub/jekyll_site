@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Movies to Watch to Understand the Czech Humor
-date: 2023-12-18 17:56
+date: 2023-12-18 14:36
 tags: cz film
 categories: cz film
 description: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 26 Lessons on How to Run a Business from the Book ‘The Personal MBA’
-date: 2024-01-05 07:56
+date: 2024-01-05 07:16
 tags: education business 
 categories: business startup
 description: |
