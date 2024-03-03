@@ -1,0 +1,44 @@
+---
+layout: post
+title: Don’t Write a To-Do List Unless You Write This List First
+date: 2024-03-03 16:56
+tags: essay 
+categories: essay
+description: |
+    To-do lists are probably one of the simplest productivity hacks out there. You should absolutely write them. But you should NOT write them unless you write a different list first. It’s what I call to-be list.
+---
+
+## To-do lists are great, but not sufficient
+Writing a to-do list is a practical and effective way to free mental capacity and avoid forgetting tasks that you may have to execute at work and other domains of your life. To-do lists are great. In fact, and I am very sure I would be incapable of keeping track of all the tasks I may have to do, wasn’t it for keeping a to-do list. I may not have even written this post. To-do lists are probably one of the simplest productivity hacks out there. You should absolutely write them. But you should _NOT_ write them unless you write a different list first. It’s what I call **to-be** list.
+
+## What is a to-be list, and what is on mine
+Getting sh*t done is cool, but we all know there are more important things out there. Like realizing your full potential and being a kind human being. That’ what the to-be list is there to help you with. Unlike a to-do list, you write it once and then you rarely change it. It should have just a handful of items (say maximum twelve) and they will be deeply personal. The main purpose of a to-be list is to first figure out what kind of person you want to be, and then help you be one.[^1] 
+
+Every to-be list is unique, but for the sake of inspiration, here is what is on mine:
+
+* Emotional generosity
+* Infectious enthusiasm
+* Social courage
+* Intellectual curiosity
+* Relentless resourcefulness
+
+**Emotional generosity** is living with your heart open, letting your feelings and emotions be seen, but also creating space to listen and fully apprehend those of others.  **Infectious enthusiasm** is creating an atmosphere of joy around everything you do and sharing it with others.
+**Social courage** is asking for what you want and speaking up to fight injustice. **Intellectual curiosity** is about understanding the world around you as much as you can, without making assumptions about it (and other people’s opinions about it). **Relentless resourcefulness** is being maximally helpful anytime you get chance to – a friend of a friend is looking for new home? You ask around. A friend travels to a city you have been to? You share your favorite places to visit. A colleague is stuck with a work task? You offer to troubleshoot and brainstorm together.
+
+## Will you write your to-be list?
+
+I don’t always manage to live up to my to-be list but having one certainly does help me to do it more frequently. In a world where the word ambition has become almost uniquely associated with career, I find it very important to remind myself that ambitions for one’s character are much more important.
+If you agree, I encourage you to write a to-be list of your own, maybe taking an inspiration from mine, but more importantly reflecting your own unique experience and character.[^2] If you are exceptionally creative, you could weave your to-be list into a small poem and maybe say it out loud each morning.
+
+I am curious – what would be in your to-be list? And why? Let me know in the comments and thanks for reading!
+
+## Screenshot essay version
+
+<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/240303_ToBeList.png" alt="" title="Screenshot Essay"/> </div>
+<div class="col three caption">
+This essay, in a screenshot format.
+</div>
+
+
+[^1]: As an aside, for the productivity freaks out there, research supports the argument that people who set personal goals see this translate to productivity at work, in at least equal measure as people who just set work-related goals.
+[^2]: Inspiration for items on a to-be list can come from anywhere. I got mine from Fred again .., [Jia Jiang](https://www.ted.com/talks/jia_jiang_what_i_learned_from_100_days_of_rejection), Paul Graham, and few others.
