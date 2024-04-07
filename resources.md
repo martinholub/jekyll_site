@@ -7,10 +7,12 @@ spotifyplaylist: 7HD8RrJ2l7Iers8yp4iiJF
 ---
 Below you will find loosely organized database of pointers and resources that I found useful in various domains of my life or that I think are otherwise worth sharing with you.
 
+**The pages below are not maintained, and are out of date.**
+
 # research
 Let's kick off with pointers related to my work and research.
 
-## knowledge base
+## knowledge base 
 [Link to resources]({{ site.baseurl }}/pages/research_resources)
 
 ## tools
@@ -49,7 +51,8 @@ Who would say that science can be so much [fun]({{ site.baseurl }}/pages/researc
 <br/>
 
 # life
-Being in research is overwhelming and often exhausting. I am firmly convinced that keeping a healthy work-life balance and spending time among others and especially those with backgrounds different from yours are crucial in developing yourself as a person and a character, a responsibility that we all have in this world. It also makes the whole life struggle thing much more fun.
+
+you know, the non-science stuff.
 
 ## giving
 * <a href="https://www.givewell.org/" target="blank">GiveWell<a/>
@@ -57,7 +60,7 @@ Being in research is overwhelming and often exhausting. I am firmly convinced th
 * You have about <a href="https://80000hours.org/" target="blank">80'000 hours</a> of work in your life. Have you spent sufficient time to think how you will use it to leave the word a better place? This online resource will give you fresh and sometimes pretty surprising perspective.
 
 ## sports
-* I am an active player of Ultimate (frisbee). Yep that's correct, the proper name is just "Ultimate", maybe because it is the best sport ever? Here are some <a href="https://www.youtube.com/watch?v=cyOjtn9SxP4" target="blank">shots from the sport at its best</a>.
+* I used to be ab active player of Ultimate (frisbee). Yep that's correct, the proper name is just "Ultimate", maybe because it is the best sport ever? Here are some <a href="https://www.youtube.com/watch?v=cyOjtn9SxP4" target="blank">shots from the sport at its best</a>.
 
 ## art and related
 
@@ -69,14 +72,14 @@ Being in research is overwhelming and often exhausting. I am firmly convinced th
 Here is link to my [Spotify profile](https://open.spotify.com/user/holubm).
 
 {% include spotifyplaylist.html id=page.spotifyplaylist %}
-### books
-I read a lot, although much less than I would like to :). I maintain a list of books I have read on <a href="https://www.goodreads.com/user/show/92718688-martin" target="blank">Goodreads</a>. I am happy for any book recommendations you would like to share
 
-### podcasts
-I enjoy podcasts where I learn something new or that made me laugh hard. I am still searching for a good way how to share them here. In the meantime, if you would like to share a podcast recommendation or needed a tip, get in touch!
+### books
+ I maintain a list of books I have read on <a href="https://www.goodreads.com/user/show/92718688-martin" target="blank">Goodreads</a>. I am happy for any book recommendations you would like to share!
+
 
 ### blogging
-* I can highly recommend that you start off with <a href="https://jekyllrb.com/" target="blank">Jekyll</a> and <a href="https://pages.github.com/" target="blank">GitHub Pages</a>. It is free and works across platforms.
+* I started off with <a href="https://jekyllrb.com/" target="blank">Jekyll</a> and <a href="https://pages.github.com/" target="blank">GitHub Pages</a>. It is free and works across platforms. It worked allright couple of years ago but these days there are much better wats. Still works alriht for static pages with little traffic.
+
 * <a href="https://iwantmyname.com/" target="blank">iwantmyname</a> is a great hosting service which I have been using more than 4 years and I am very happy. It is a cool company as well.
 <!--
 Here is <a href="https://www.cbdb.cz/uzivatel-7140-jj" target="blank">list of podcasts I was subscribed to in early 2020</a>.

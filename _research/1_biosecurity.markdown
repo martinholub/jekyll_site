@@ -23,4 +23,7 @@ I am available for consulting on this topic.
 
 ### journals
 
-* <b>Holub, M.</b>; Agena, E. Biofoundries and Citizen Science Can Accelerate Disease Surveillance and Environmental Monitoring. Front. Bioeng. Biotechnol. 2023, 10, 1110376. https://doi.org/10.3389/fbioe.2022.1110376.
+* <b>Holub, M.</b>; Agena, E. Biofoundries and Citizen Science Can Accelerate Disease Surveillance and Environmental Monitoring. Front. Bioeng. Biotechnol. 2023, 10, 1110376. [https://doi.org/10.3389/fbioe.2022.1110376](https://doi.org/10.3389/fbioe.2022.1110376).
+
+### preprints
+* Chen, M.; <b> Holub, M.</b> and Tice, C.; Enhancing Biosecurity with Language Models: Defining Research Directions (March 25, 2024). Available at SSRN [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772574](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772574)

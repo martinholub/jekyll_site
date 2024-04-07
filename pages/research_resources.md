@@ -18,3 +18,6 @@ permalink: /pages/research_resources
 
 ### scanning probe microscopy
 * <a href="https://www.youtube.com/user/AtomicForceMicro" target="blank">AttomicFroceMicro channel</a>
+
+### biosecurity
+<a href="https://github.com/martinholub/awesome-biosecurity-datasets" target="blank">awesome-biosecurity-datasets</a>
