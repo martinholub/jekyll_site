@@ -2,7 +2,7 @@
 layout: post
 title: From Flattery to Fit - Why You May Have to Rewrite Your Cover Letter
 date: 2024-04-14 17:56
-tags: career 
+tags: career
 categories: career
 description: |
   Writing a cover letter is like cooking for a date who is also a reviewer on the Michelin-star guide. You want to impress them but have no idea how … So how do you write a good cover letter?
