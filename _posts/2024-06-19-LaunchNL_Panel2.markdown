@@ -28,6 +28,11 @@ Unfortunately, the quality of recording is poor due to technical difficulties on
 * While there is less capital than in the US, it gets you further. This keeps the environment attractive for VCs who gain the opportunity to earn higher multiple.
 * Mindset shifts to empower Dutch and European bio-entrepreneurs: 
   * 1) Failing = Learning, 2) Give-back mentality, 3) Don’t be afraid to ask!
+  
+### Additional Remarks
+
+* The Netherlands has excellent clinical trial infrastructure.
+* Dutch and European biotechs tend to be patient-centric, including patients from the early on.
 
 ## Discussion Transcript
 
@@ -72,7 +77,7 @@ years, a couple of organizations from the Ministry of Health and Ministry of Eco
 
 **WL:** Great. And then kind of flipping that question on its head, what we do to keep companies here, talent here, for example, Kianti illustrated that maybe she will set up ooperations in the US because of the regulatory environment. Is there stuff that the local ecosystem can do to continue to make it more appealing to keep your operations here?
 
-**JK:** Well, that's more on the practical side. We need more power and electricity. That's a bit of an issue now. But for the rest, it's really trying to continue on that collaborative ecosystem. But also organizations like yours, like Nucleate, making that bridge with America. So it's actually that physical bridge, having that here showcasing what we can do. And how we even can become better at what we actually do?
+**JK:** Well, that's more on the practical side. We need more power and electricity. That's a bit of an issue now. But for the rest, it's really trying to continue on that collaborative ecosystem. But also organizations like yours, like Nucleate, making that bridge with America. So it's actually that physical bridge, having that here showcasing what we can do. And how we even can become better at what we already do?
 
 **WL:** Great. So we've touched on kind the local beginnings of a company, right? Like what starting a company is like here in the Netherlands. Most of the most exciting life science companies today are trying to solve global problems as Cinzia mentioned as well. You know, whether that's agri-tech feeding a world that is increasingly affected by climate change, drug development for an increasing aging population. So for this next topic, and we've started to touch on this a little bit already, but I'd like to dive into some of the more cultural and intangible factors perhaps at play here in the Netherlands versus in the US. So Cinzia, you are a Termeer fellow, so first, could you tell us a little bit about what the Termeer Fellowship is? And in your experience as part of being a Termeer Fellow, what are some of the cultural differences that you've noticed between, say, US founders or US startup teams and EU founders and EU startup teams?
 
