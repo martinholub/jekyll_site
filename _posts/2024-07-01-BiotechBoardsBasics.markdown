@@ -9,7 +9,7 @@ description: |
 
 --- 
 
-Last week I had the chance to attend the 2024 Dutch Biotech Event organized by [hollandbio](https://www.hollandbio.nl/). It was an afternoon packed with inspiring talks, great discussions, and new connections. The program included four parallel breakout sessions, for which I picked the one named “The Basics of Biotech Board Management.” The session was organized as a panel, with three outstanding biotech executives with complementary expertise: Eline van Beest (CEO of Hybrize Therapeutics), Felice Verdyun (Partner at [EQT Life Sciences](https://eqtgroup.com/private-capital/life-sciences/)), and Mirjam Mol-Arts (pharma executive previously at companies including [Organon](https://www.organon.com/) and [Ferring Pharmaceuticals](https://www.ferring.com/)). I chose this session, as I reasoned that it will be where I learn the most in the shortest amount of time. Good bet, the only time I stopped taking notes was when I raised my hand to ask questions! Below is a summary of these notes for anyone in biotech interested in what makes a good board and how to manage it.
+Last week I had the chance to attend the 2024 Dutch Biotech Event organized by [hollandbio](https://www.hollandbio.nl/). It was an afternoon packed with inspiring talks, great discussions, and new connections. The program included four parallel breakout sessions, for which I picked the one named “The Basics of Biotech Board Management.” The session was organized as a panel, with three outstanding biotech executives with complementary expertise: Eline van Beest (CEO of [Hybrize Therapeutics](https://hybridizetherapeutics.com/)), Felice Verdyun (Partner at [EQT Life Sciences](https://eqtgroup.com/private-capital/life-sciences/)), and Mirjam Mol-Arts (pharma executive previously at companies including [Organon](https://www.organon.com/) and [Ferring Pharmaceuticals](https://www.ferring.com/)). I chose this session, as I reasoned that it will be where I learn the most in the shortest amount of time. Good bet, the only time I stopped taking notes was when I raised my hand to ask questions! Below is a summary of these notes for anyone in biotech interested in what makes a good board and how to manage it.
 
 ## Takeaway \#1: As in the kitchen, so in the boardroom: stick to a handful of high-quality ingredients.
 
@@ -23,7 +23,7 @@ In smaller companies you may have quite a lot of flexibility on who is on a boar
 * Before you become a part of any board meeting, make sure to follow some [courses on corporate governance](https://www.coursera.org/search?query=corporate%20governance). Similarly, help members of your boards to do so as well!
   * You can also include governance-related training as part of the pre-board meeting sessions.
   
-<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/harryptterhat.jpg" alt="" title="Header"/> </div>
+<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/harrypotterhat.jpg" alt="" title="Header"/> </div>
 <div class="col three caption">An ideal investor should always be able to identify if they are representing the interests of their LPs or the ones of the company, as these will not always be aligned. In practice this is nearly as difficult as it was for the Sorting Hat to decide if Harry belongs to Slytherin or Gryffindor.</div>
 
 
@@ -36,15 +36,12 @@ Boards may seem serious. They certainly appear somewhat abstract to me as I have
   * These are great opportunities to make sure everyone on the board has the necessary technical, operational, or other background needed for effective management.
 * Board meetings will be commonly followed by an executive session.
   * [Executive sessions](https://en.wikipedia.org/wiki/Executive_session) are confidential, and give the board the chance to address any internal friction and reflect on its operation. Frequently, the CEO will be absent from this session, or its part, offering the board a chance to reflect on their performance (i.e. trash-talk them).
-* Culture will impact where and how board-matters are addressed. The Dutch have a [low-context culture](https://doi.org/10.1080/08911762.2017.1296985), which means that they mean what they say, and address each other directly. On the other hand, Britts are generally much more soft spoken, and wrap their statements in politeness formulas, such as [“Did you have a chance to…?”, “Would you mind if I… ?”, and “We should be mindful about…”](https://medium.com/@k.kozmana/the-dualist-world-view-of-an-immigrant-b3e7a4d00f75)
-  * Soft-spoken culture tend to have more talk happen out of the board room
+* Culture will impact where and how board-matters are addressed. The Dutch have a [low-context culture](https://doi.org/10.1080/08911762.2017.1296985), which means that they mean what they say, and address each other directly. On the other hand, Britts are generally much more soft spoken, and wrap their statements in politeness formulas, such as [“Did you have a chance to…?”, “Would you mind if I… ?”, and “We should be mindful about…”.](https://medium.com/@k.kozmana/the-dualist-world-view-of-an-immigrant-b3e7a4d00f75)
+  * Soft-spoken cultures tend to have more talking happen out of a board room.
 * Finally, irrespective of cultural differences, board dinner will probably be the occasion where most matters are discussed. Don’t leave it out!
 
 
 ## Takeaway \#3: Do as a good scout would: be prepared!
-
-<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/alwaysprepared.png" alt="" title="Header"/> </div>
-<div class="col three caption"> <a href="https://www.gocomics.com/calvinandhobbes/1986/01/11">Calvin & Hobbs, January 11, 1986.</a></div>
 
 This probably should not have come as a surprise. As in nearly everywhere in life: if you want to do well, make sure you also prepare well. And when I say well, I mean obsessively. Here is how to do it and not go crazy:
 
@@ -56,6 +53,10 @@ This probably should not have come as a surprise. As in nearly everywhere in lif
 * The most important person you want to give a clear briefing on the agenda and points in it to is the meeting chairman. They are the person with the most agency over how smoothly the meeting will run.
 * Whenever adequate and possible, include a presentation and potential Q&A with the company team during a board meeting. This requires some forethought, but will be appreciated by both the board and the team.
 * Finally, do not neglect to send good summaries.
+
+<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/alwaysprepared.png" alt="" title="Header"/> </div>
+<div class="col three caption"> <a href="https://www.gocomics.com/calvinandhobbes/1986/01/11">From Calvin & Hobbs, January 11, 1986.</a></div>
+
 
 Lot of the advice here is common sense. It is particularly because of this that I found it useful to hear. For anybody entering their first board, you will walk in assuming others probably know how things should be done, and try not to stick out too much or ask too many questions. What I am taking from this session is that if something does not seem right, it may as well not be. Boards are, after all, made of people, and people make mistakes and can sometimes be lazy. So yes, you by all means should have high standards. You can also ask about things you don’t understand. Now, you know that the best time to do this is **not** in the board meeting, but in the number of interactions and meetings around it.
 
