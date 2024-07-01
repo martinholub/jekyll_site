@@ -2,7 +2,7 @@
 layout: post
 title: The Basics of Biotech Board Management
 date: 2024-07-01 20:22
-tags: buisness
+tags: business
 categories: business
 description: |
     Last week I had the chance to attend the Dutch Biotech Event 2024 organized by hollandbio. It was an afternoon packed with inspiring talks, great discussions, and new connections. It gave me the opportunity to attend a session on management of biotech boards. I found the information so useful that I decided to summarize it in a post ...
