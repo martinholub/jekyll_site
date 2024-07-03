@@ -5,15 +5,15 @@ date: 2024-07-01 20:22
 tags: business
 categories: business
 description: |
-    Last week I had the chance to attend the Dutch Biotech Event 2024 organized by hollandbio. It was an afternoon packed with inspiring talks, great discussions, and new connections. It gave me the opportunity to attend a session on management of biotech boards. I found the information so useful that I decided to summarize it in a post ...
+    Company board meetings are exclusive and the experience of being in one will be foreign to most. Consequently, founders may find themselves in a situation where they have to assemble a board, and organize a board meeting, without having any meaningful experience with how to do it! If that sounds anxiety provoking, that’s because it is. The list of questions one can have at this moment can be seemingly endless. I wanted to learn about the fundamentals for a while and I was lucky enough to be able to do so by attending the basics of the biotech board management breakout session last week at the Dutch Biotech Event2024 ...
 
 --- 
 
-Last week I had the chance to attend the 2024 Dutch Biotech Event organized by [hollandbio](https://www.hollandbio.nl/). It was an afternoon packed with inspiring talks, great discussions, and new connections. The program included four parallel breakout sessions, for which I picked the one named “The Basics of Biotech Board Management.” The session was organized as a panel, with three outstanding biotech executives with complementary expertise: Eline van Beest (CEO of [Hybrize Therapeutics](https://hybridizetherapeutics.com/)), Felice Verdyun (Partner at [EQT Life Sciences](https://eqtgroup.com/private-capital/life-sciences/)), and Mirjam Mol-Arts (pharma executive previously at companies including [Organon](https://www.organon.com/) and [Ferring Pharmaceuticals](https://www.ferring.com/)). I chose this session, as I reasoned that it will be where I learn the most in the shortest amount of time. Good bet, the only time I stopped taking notes was when I raised my hand to ask questions! Below is a summary of these notes for anyone in biotech interested in what makes a good board and how to manage it.
+Last week I had the chance to attend the 2024 Dutch Biotech Event organized by [hollandbio](https://www.hollandbio.nl/). It was an afternoon packed with inspiring talks, great discussions, and new connections. The program included four parallel breakout sessions. I picked one named “The Basics of Biotech Board Management.” The session was organized as a panel, with three cool biotech executives with range of experience with being board memebrs: Eline van Beest (CEO of [Hybrize Therapeutics](https://hybridizetherapeutics.com/)), Felice Verdyun (Partner at [EQT Life Sciences](https://eqtgroup.com/private-capital/life-sciences/)), and Mirjam Mol-Arts (pharma executive previously at companies including [Organon](https://www.organon.com/) and [Ferring Pharmaceuticals](https://www.ferring.com/)). I chose this session, as I reasoned that it will be where I learn the most in the shortest amount of time. Good bet, the only time I stopped taking notes was when I raised my hand to ask questions! Below is a summary of these notes. Anyone who is biotech and interested in what makes a good board and how to manage it should find this insightful.
 
 ## Takeaway \#1: As in the kitchen, so in the boardroom: stick to a handful of high-quality ingredients.
 
-In smaller companies you may have quite a lot of flexibility on who is on a board. In larger and especially listed companies you will have a number of rules and regulations that you have to follow. But irrespective, one rule holds as much in the kitchen as it does in the boardroom: you cannot make a great dish with mediocre ingredients. You can also overpower a great dish by mixing too many flavors at once. Here is what this means for boards:
+In smaller companies you may have quite a lot of flexibility on who is on a board. In larger and especially listed companies you will have [a number of rules and regulations that you have to follow](https://www.europarl.europa.eu/news/en/press-room/20221118IPR55706/parliament-approves-landmark-rules-to-boost-gender-equality-on-corporate-boards). But irrespective, one rule holds as much in the kitchen as it does in the boardroom: to make a great dish, start with great ingredients. And yes, you can also overpower a great dish by mixing too many flavors at once. Here is what this means for boards:
 
 * Think hard about whom you offer a board seat to. Board should have only as many people as it needs, and not more.
   * If you can offer a scientific advisory seat instead, do it.
@@ -29,7 +29,7 @@ In smaller companies you may have quite a lot of flexibility on who is on a boar
 
 ## Takeaway \#2: It is not talking behind closed doors if everyone does it, right?
 
-Boards may seem serious. They certainly appear somewhat abstract to me as I have not been part of one. It was cool to be reminded that boards are made of board members, and these are, after all, people. So managing the board will be, more than anything else, dealing with people. To do so, you will end up talking with them often, mostly outside of the actual board meeting: 
+Boards of directors may seem serious. They will certainly appear somewhat abstract to anyone who has not been part of one. Throught this breakout session, I was reminded that boards are made of board members, and these are, drumroll ... people! People, who are _mostly_ normal, that is. Consequently, managing a board will be, more than anything else, managing people. To do so, you will end up talking with them often, including outside of an actual board meeting: 
 
 * You will spend (**a lot**) time for preparation, including talking with board members one-on-one (more on that later).
 * Board meetings will often be preceded by a pre-meeting. This may include more scientific, technical, or open ended discussions. Only these will likely last longer than the board meeting itself!
@@ -43,18 +43,18 @@ Boards may seem serious. They certainly appear somewhat abstract to me as I have
 
 ## Takeaway \#3: Do as a good scout would: be prepared!
 
-This probably should not have come as a surprise. As in nearly everywhere in life: if you want to do well, make sure you also prepare well. And when I say well, I mean obsessively. Here is how to do it and not go crazy:
+This probably should not have come as a surprise. As in nearly everywhere in life: if you want to do well, make sure you also prepare well. What did surprise me a bit though, was what is the amount of preparation that will be helfpul. The answer? A lot. Here is how to do it and not go crazy:
 
 * Send out quarterly report sufficiently ahead of the meeting
   * Keep updates in meetings short and snappy. This has the added advantage of leaving everyone energized.
 * Schedule a dedicated preparatory meeting with every board member ahead of time.
-  * The goal of this meeting is to understand points of view, opinions, concerns, and eventual fears. The meeting is there to resolve and address these *BEFORE* the actual board meeting. 
+  * The goal of this meeting is to understand points of view, opinions, concerns, and eventual fears. The meeting is there to resolve and address these **before** the actual board meeting. 
   * It’s fair to have disagreements and contrarian opinions. But you want them to be known, with a strategy on how to address them, before the board meeting.
 * The most important person you want to give a clear briefing on the agenda and points in it to is the meeting chairman. They are the person with the most agency over how smoothly the meeting will run.
 * Whenever adequate and possible, include a presentation and potential Q&A with the company team during a board meeting. This requires some forethought, but will be appreciated by both the board and the team.
 * Finally, do not neglect to send good summaries.
 
-<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/alwaysprepared.png" alt="" title="Header"/> </div>
+<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/alwaysprepared.png" alt="" title="Header" width="50%;"/> </div>
 <div class="col three caption"> <a href="https://www.gocomics.com/calvinandhobbes/1986/01/11">From Calvin & Hobbs, January 11, 1986.</a></div>
 
 
