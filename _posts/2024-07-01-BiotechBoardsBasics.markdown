@@ -54,7 +54,7 @@ This probably should not have come as a surprise. As in nearly everywhere in lif
 * Whenever adequate and possible, include a presentation and potential Q&A with the company team during a board meeting. This requires some forethought, but will be appreciated by both the board and the team.
 * Finally, do not neglect to send good summaries.
 
-<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/alwaysprepared.png" alt="" title="Header" width="50%;"/> </div>
+<div class="img_row"> <img class="one" src="{{ site.baseurl }}/img/alwaysprepared.png" alt="" title="Header"/> </div>
 <div class="col three caption"> <a href="https://www.gocomics.com/calvinandhobbes/1986/01/11">From Calvin & Hobbs, January 11, 1986.</a></div>
 
 
