@@ -3,7 +3,7 @@ layout: post
 title: How I Became Conversational in Dutch in Less Than Six Months and Without an Instructor
 date: 2022-01-30 20:00
 tags: nl education
-categories: education nl
+categories:
 description: |
     "How did you learn Dutch so well and so quick?" I get this question often. I am in the few percent of expats who can hold fluent conversation and I got to this point in seemingly no time. And while my Dutch is by no means perfect, it gets the job done. ere I will describe how I become fluent in under half a year, without an instructor, while working a full-time job where I did not use any Dutch.
 ---

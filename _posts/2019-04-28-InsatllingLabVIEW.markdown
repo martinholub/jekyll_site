@@ -4,7 +4,7 @@ mathjax: true
 title: Installing LabVIEW on Debian Linux
 date: 2019-04-28 11:02
 tags: code linux
-categories: code
+categories:
 description: |
     I am no fan of LabVIEW for multiple reasons, but the truth is, it is hard to replace when it comes to instrument control. Installing it on a Debian machine (e.g. Ubuntu) is possible despite not being officially supported by National Instruments. Here is how to do it.
 ---

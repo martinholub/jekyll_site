@@ -3,7 +3,7 @@ layout: post
 title: Deep Dive Into Plant-Based Diets
 date: 2023-10-18 19:56
 tags: research diet environment fitness sport
-categories: research
+categories:
 description: |
     Plant-based diets have become increasingly popular in recent years, with many people choosing to adopt them for health, environmental, or ethical reasons. In this article, I will explore the origins of plant-based diets, their current state, health benefits, potential side effects, and their suitability for athletes. I will also discuss how plant-based diets can help with weight loss and their impact on the environment.
 ---

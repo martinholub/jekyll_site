@@ -3,7 +3,7 @@ layout: post
 title: The Clean Indoor Air Manifesto
 date: 2023-12-02 11:56
 tags: health biosecurity research
-categories: research
+categories:
 description: |
     Humans spend 90% or more of their time indoors. 90%, that’s more than some species of whale spend underwater. Spending most time indoors means breathing mainly indoor air, and it thus goes that its quality has important impact on our health. 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Kdo vydělá na českém penzijním připojištění?
 date: 2018-02-24 18:42
 tags: cz finance
-categories: cz
+categories: 
 description: |
     Po dlouhé době se k vám zase vracím s článkem na blogu. Mám mnoho věcí, o které bych se s vámi chtěl podělit, ale v tuto chvíli se omezím jen na jedno téma. Téma, které mi není zrovna vlastní, ale o kterém jsem přesvědčen, že bude pro každého zajímavé a užitečné, a to sice téma spoření.
 ---

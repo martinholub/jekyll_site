@@ -2,8 +2,8 @@
 layout: post
 title: State of Dutch Tech 2024, Three Problems
 date: 2024-05-09 09:56
-tags: business research
-categories: business startup
+tags: business research startup
+categories: 
 description: |
     Are you thinking about starting a company in the Netherlands? Or maybe you are dreaming of working for one that grows rapidly? Or perhaps you are a founder with the dream to upend industries? In all these cases, and a number of more, you should check the State of Dutch Tech report by teachleap.nl. In this post I will highlight three major problems it points to …
 ---

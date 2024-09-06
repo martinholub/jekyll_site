@@ -3,7 +3,7 @@ layout: post
 title: Don’t Write a To-Do List Unless You Write This List First
 date: 2024-03-03 16:56
 tags: essay 
-categories: essay
+categories:
 description: |
     To-do lists are probably one of the simplest productivity hacks out there. You should absolutely write them. But you should NOT write them unless you write a different list first. It’s what I call to-be list.
 ---

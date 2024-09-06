@@ -2,8 +2,8 @@
 layout: post
 title: Strengthening and Connecting the Dutch Entrepreneurial Landscape - Panel Discussion
 date: 2024-06-17 20:56
-tags: startup nucleate
-categories: startup nucleate
+tags: startup nucleate biotech
+categories:
 description: |
     This is a summary and a transcript from panel discussion “Strengthening and Connecting the Dutch Entrepreneurial Landscape”, that we hosted at the Nucleate Netherlands Launch Event, on 11th of June in Utrecht.
 

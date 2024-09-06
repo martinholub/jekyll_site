@@ -3,7 +3,7 @@ layout: post
 title: Letter to 10 Years Younger Self
 date: 2023-12-28 08:13
 tags: essay 
-categories: essay
+categories:
 description: |
     A letter I would give 10 year younger self. Lot of patronizing and some love - totally useful …
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Five Essays That Challenged My Thinking This Year
 date: 2023-12-22 17:53
 tags: essay literature
-categories: essay literature
+categories:
 description: |
     I read some twenty to thirty essays wide range of topics. Bellow I present the five that either felt the most relatable or challenged my exiting mental models the most ...
 ---

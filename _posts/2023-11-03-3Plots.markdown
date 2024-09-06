@@ -3,7 +3,7 @@ layout: post
 title: The World on Scientific Canvas - Three Plots to Make You Think
 date: 2023-11-02 19:56
 tags: research scicomm
-categories: research
+categories:
 description: |
     This is the first post in a new series where I highlight plots that I came across in scientific literature that will be interesting for a broad audience. Today I look at why poor stay poor (economic inequality), why you should move to Italy but not Singapore (labor productivity), and why you should avoid processed foods (microbiome diversity).
 ---
@@ -45,7 +45,7 @@ If you consider the trend on the plot, you will quickly see that in countries wi
 The western diet makes up in calories for what it lacks in diversity. Figure adapted from <a href="https://doi.org/10.1016/j.cell.2018.10.029">US Immigration Westernizes the Human Gut Microbiome</a> showing participants BMI and dietary patterns at the beginning end and of study. Faith’s phylogenetic distance (PD) quantifies diversity (in this case in participants’ diets)
 </div>
 
-This study ([US Immigration Westernizes the Human Gut Microbiome](https://doi.org/10.1016/j.cell.2018.10.029)) looked at Thai immigrants to the US over tens of years (including first and second gen immigrants) and compared their dietary patterns and some biomarkers to the control of US population. It found out that the immigrant microbiome gradually becomes US-like which also means it loses much of the original bacterial strains that can digest plant fiber. This appears to be a product of dietary changes. The US diet is markedly less diverse than the original Thai one and the immigrants gradually gravitate towards. The western diet is higher in fat and sugar and relatively lower in protein. Not surprisingly this leads to BMI increase, as well as increase of prevalence of obesity among immigrants over the years they reside in the US. The immediate takeaway here is, if you move to the US or live there already, do watch your diet (eating [plant-based]({% post_url /research/2023-10-18-PlantBased %}) would help)!
+This study ([US Immigration Westernizes the Human Gut Microbiome](https://doi.org/10.1016/j.cell.2018.10.029)) looked at Thai immigrants to the US over tens of years (including first and second gen immigrants) and compared their dietary patterns and some biomarkers to the control of US population. It found out that the immigrant microbiome gradually becomes US-like which also means it loses much of the original bacterial strains that can digest plant fiber. This appears to be a product of dietary changes. The US diet is markedly less diverse than the original Thai one and the immigrants gradually gravitate towards. The western diet is higher in fat and sugar and relatively lower in protein. Not surprisingly this leads to BMI increase, as well as increase of prevalence of obesity among immigrants over the years they reside in the US. The immediate takeaway here is, if you move to the US or live there already, do watch your diet (eating [plant-based]({% post_url 2023-10-18-PlantBased %}) would help)!
 
 ## Final remarks
 Ok those were three of the many figures I looked at recently that made me stop and think! I hope you have gotten something useful from them as well. All three plots come from papers or resources that are freely accessible so go ahead and dig deeper into the studies if you find them interesting! Thanks for reading everyone 😊

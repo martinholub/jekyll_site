@@ -3,7 +3,7 @@ layout: post
 title: Projects, Cows and Apéros. What Was the Semester at ETH Like?
 date: 2017-02-25 18:42
 tags: ethz uni
-categories: Tristium Turicum
+categories:
 description: |
     Hello everybody, after more than a two-months break I am getting back to you with already fourth blog post. Do you know what this means? Don’t worry it doesn’t mean that I decided to bore you with a post of several times the normal length (although, truth be told, this one is bit meatier than the usual fare), rather it means that my exam period is over. It is exactly at this time that I want to share with you a concise summary of what a semester at ETH is like. A summary enriched by my personal impressions and experiences. And if you are not a student anymore, don’t worry, on top of offering you a view on Swiss education and ETH, I will give you a sneak-peak into what the Swiss are like and how does this play out in one’s day-to-day life.
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: Convention on Biological Diversity Technical Series on Synthetic Biology
 date: 2022-05-20 08:00
-tags: SynBio policy
-categories: SynBio policy
+tags: synbio policy
+categories:
 description: |
     It's Biodiversity Day on May 22nd and The Convention on Biological Diversity (CBD) has published Technical Series note (No. 100) on Synthetic Biology focusing mainly on its governance and impact on different stakeholders which I summarize in this post. Read on to find out more!
 ---

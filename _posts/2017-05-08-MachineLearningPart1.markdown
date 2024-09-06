@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning - MRI Analysis Project (Part I)
 date: 2017-05-07 16:22
 tags: ML projects ethz
-categories: projects
+categories:
 description: |
     You’ve heard about it many times already. It is supposedly influencing how we cast our votes, putting people off their jobs and even making sure that the pineapples you buy in your supermarket are always fresh. Machine learning is a hot topic and you are increasingly likely to come across it not only in your work, but in your day to day life in general.
 

@@ -3,7 +3,7 @@ layout: post
 title: Bridging Dutch Biotech Excellence with Global Entrepreneurial Opportunities - Panel Discussion
 date: 2024-06-19 20:42
 tags: startup nucleate
-categories: nucleate
+categories:
 description: |
     This is a summary and a transcript from panel discussion “Strengthening and Connecting the Dutch Entrepreneurial Landscape”, that we hosted at the Nucleate Netherlands Launch Event, on 11th of June in Utrecht.
 

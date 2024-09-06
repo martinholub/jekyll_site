@@ -2,8 +2,8 @@
 layout: post
 title: Solutions for the Dutch Tech
 date: 2024-06-09 09:56
-tags: business research
-categories: business startup
+tags: business research startup
+categories: 
 description: |
     In the previous post we looked at the main challenges highlighted in the State of Dutch Tech report issued by teachleap.nl earlier this year. In this post we look at a number of solutions that could help address these problems …
 ---

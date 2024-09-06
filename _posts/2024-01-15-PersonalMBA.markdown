@@ -2,8 +2,8 @@
 layout: post
 title: 26 Lessons on How to Run a Business from the Book ‘The Personal MBA’
 date: 2024-01-05 07:16
-tags: education business 
-categories: business startup
+tags: education business startup
+categories: 
 description: |
     Many of us out there in the tech and business world will consider pursuing an MBA at one point. While this can be a rewarding experience, it comes with a hefty price tag and equally significant opportunity cost. There are plenty of reasons for pursuing a full-fledged program (social capital and prestigious stamp are just a few), but for many, a shorter course and real-world practice will do well. Here is a summary of one such course …
 ---

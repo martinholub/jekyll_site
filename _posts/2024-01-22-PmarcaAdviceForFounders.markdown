@@ -3,8 +3,8 @@ layout: post
 title: What Makes a Great Startup Founder?
 date: 2024-01-22 09:41
 youtubeId1: -hxeDjAxvJ8?si=Ium65Pj10vMVCsCk&amp;start=9835
-tags: education business 
-categories: business startup
+tags: education business startup
+categories: 
 description: |
     Marc Andreessen’s advice for first-time founders and young people with my extensive footnotes ...
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: Collaborative Platforms for Synthetic Biology
 date: 2022-06-03 15:56
-tags: SynBio policy
-categories: SynBio policy
+tags: synbio policy
+categories:
 description: |
     In this post I give rundown of some key points I distilled from OECD study "Collaborative platforms for emerging technology: Creating convergence spaces" that appeared last year in the series "OECD Science, Technology and Industry Policy Papers". The study aims to support policy makers and innovators to realize the potential of emerging technologies through collaborative platforms. Read on to find out more!
 ---

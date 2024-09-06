@@ -2,8 +2,8 @@
 layout: post
 title: This Holiday Season, I Choose To Be Grateful
 date: 2023-11-26 12:56
-tags: mental-health science
-categories: mental-health
+tags: mind
+categories:
 description: |
     The holiday season is coming, and the cultural message is that we need to host amazing dinner parties and buy expensive and intricate thought-out gifts. While that certainly won’t hurt, it takes the attention away from why we are doing this in the first place.
 ---

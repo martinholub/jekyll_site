@@ -3,7 +3,7 @@ layout: post
 title: We Lived During a War
 date: 2024-01-05 08:56
 tags: essay 
-categories: essay
+categories:
 description: |
     Several things happened over the course of this Christmas holiday. A bombing, a shooting and a poem. This post is about what ties them together, and you are not going to like it.
 ---

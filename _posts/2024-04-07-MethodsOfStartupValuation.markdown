@@ -2,8 +2,8 @@
 layout: post
 title: Three Common Methods for Pre-Revenue Startup Valuation
 date: 2024-04-07 09:56
-tags: business 
-categories: business startup
+tags: business startup
+categories: 
 description: |
     Pre-revenue start-up valuation needn't be a mystery! 🚀 💲 Here are the three most common start-up pre-money valuation methods:
 ---

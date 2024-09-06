@@ -2,8 +2,8 @@
 layout: post
 title: The Basics of Biotech Board Management
 date: 2024-07-01 20:22
-tags: business
-categories: business
+tags: business biotech
+categories:
 description: |
     Company board meetings are exclusive and the experience of being in one will be foreign to most. Consequently, founders may find themselves in a situation where they have to assemble a board, and organize a board meeting, without having any meaningful experience with how to do it! If that sounds anxiety provoking, that’s because it is. The list of questions one can have at this moment can be seemingly endless. I wanted to learn about the fundamentals for a while and I was lucky enough to be able to do so by attending the basics of the biotech board management breakout session last week at the Dutch Biotech Event2024 ...
 

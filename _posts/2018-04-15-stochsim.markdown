@@ -4,7 +4,7 @@ mathjax: true
 title: Stochastic Modeling in Biology
 date: 2018-04-15 10:42
 tags: ethz projects code
-categories: ethz code
+categories:
 description: |
     Genetically engineered cells and organisms are being used to produce array of commonplace commercial products including drugs and materials. Biological engineering is being employed to enhance nutrition content of various foods and yield of crops. Recently, lab-grown meat represents an interesting alternative to traditional production and [synthetic biology] is being explored even by artists.
 ---

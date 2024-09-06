@@ -2,8 +2,8 @@
 layout: post
 title: Five Movies to Watch to Understand the Czech Humor
 date: 2023-12-18 14:36
-tags: cz film
-categories: cz film
+tags: cz
+categories:
 description: |
     Lately, I have been asked about some Czech moive recommendations which made me think what to recommend to people interested in the Czech history, culture and mentality. Here are five movies that I thought of ...
 ---

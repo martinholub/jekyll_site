@@ -4,7 +4,7 @@ mathjax: true
 title: Reinforcement Learning, Teaching AI to Play
 date: 2018-07-14 10:42
 tags: ethz projects code
-categories: ethz code
+categories: 
 description: |
     In this post, I will demonstrate and explain reinforcement learning code I developed. You will learn how one can train an AI agent to master Atari games and understand the technology behind DeepMind's AlphaGo, the first computer program to defeat professional human Go player.
 ---

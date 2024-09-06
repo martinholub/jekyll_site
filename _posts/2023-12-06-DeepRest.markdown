@@ -3,7 +3,7 @@ layout: post
 title: Prioritizing Rest Might Be the Best Biohack. Here Is Why.
 date: 2023-12-06 08:56
 tags: health science mind
-categories: health
+categories:
 description: |
     ‘How are you’ is a standard question we get, but how about the following ones: Do you like being busy? Does ‘busyness’ work for you? Are you getting enough rest and in the right form? These are quite simple questions but strangely enough, we rarely raise them with our friends, or ourselves.
 ---

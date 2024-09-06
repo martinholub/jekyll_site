@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: SynBio"
-tag: SynBio
+title: "Tag: synbio"
+tag: synbio
 robots: noindex
 ---
