@@ -5,9 +5,9 @@ date: 2024-09-06 09:22
 tags: biotech nucleate startup
 categories: 
 description: |
-    A summary of fifteen of my favorite insights from the Nucleate’s Alumni 2024 Summit, spanning the areas of career planning, culture building, partnerships, leadership and startup strategy …
+    A summary of fifteen of my favorite insights from the Nucleate Alumni 2024 Summit, spanning the areas of career planning, culture building, partnerships, leadership and startup strategy …
 --- 
-Earlier this week I returned from the Nucleate Alumni 2024 Summit. I had high expectations, but the event did not disappoint and managed to meet them. Never have I ever been to an event where networking with a diverse group of prospective founders, investors and industry professionals was so seamless. I can’t wait to see the innovation and collaboration that these connections will spark and want to send out a huge thank you to the fellow members of Nucleate leadership, speakers and sponsors <3.
+Earlier this week I returned from the Nucleate [Alumni 2024 Summit](https://nucleate.xyz/summit_2024/). I had high expectations, but the event did not disappoint and managed to meet them. Never have I ever been to an event where networking with a diverse group of prospective founders, investors and industry professionals was so seamless. I can’t wait to see the innovation and collaboration that these connections will spark and want to send out a huge thank you to the fellow members of Nucleate leadership, speakers and sponsors <3.
  
 The event was packed with panel discussions, interviews, pitches and fireside chats. Below I summarize my favorite insights across five key areas:
  
@@ -134,7 +134,7 @@ In many cases in biotech, bootstrapping will not be the optimal choice. You shou
  
 ## A simple blueprint for building in biotech
  
-All plan will be reductionist, but some may be helpful. Here is one that seems about right:
+All plans will be reductionist, but some may be helpful. Here is one that seems about right:
  
   1.	Generate IP (most commonly in academia)
   2.	Identify killer experiments
