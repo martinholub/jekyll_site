@@ -1,0 +1,78 @@
+---
+layout: post
+title: RNA Interference - Field Recap 
+date: 2024-10-16 19:22
+tags: biotech science
+categories: 
+description: |
+     In this field recap, I focus on RNA interference as therapeutic modality. First, I provide background on its mechanisms. This is followed up with an overview of the siRNA field. I highlight approved drugs, as well major ongoing trials. 
+---
+
+<i>This field recap was writen at end of Q22024. Events that took place after this date are not reflected.</i>
+
+In this post, I provide a brief field recap on RNA interference as therapeutic modality. First, I provide background on its biological mechanisms. Next, I follow up with an overview of the siRNA therapeutics field, highlighting approved drugs, as well major ongoing trials. I conclude with a short recap.
+
+## Mechanism of RNA Interference
+
+RNA interference (RNAi) is a process by which RNA molecules suppress gene expression in sequence specific fashion. The process was initially described in late 80’s and early 90’s, \[[ref](https://doi.org/10.1016/0092-8674(84)90050-3), [ref](https://doi.org/10.1242/dev.113.2.503)\], and elucidated at the turn of the century with work that yielded the 2006 Nobel Prize in Physiology and Medicine \[[ref](https://www.nature.com/articles/35888)\]. RNAi is a natural process of gene regulation that has physiological role in wide range of organisms, including mammals and plants. Despite some important differences, the process is mostly conserved among species. In the following, we describe it in broad strokes, focusing on its mechanism in eukaryotic and human cells. 
+
+In RNAi, double-stranded RNA (dsRNA) enters cells where it is recognized by the Dicer enzyme. Dicer contains two RNAse III domains. When recruited to dsRNA, two Dicer enzymes work in tandem to cleave the molecule at a regular interval of ~22 nucleotides. The cleavage generates 2 nucleotide overhangs at the 3’ end. The 5’ end, left unprotected, is rapidly phosphorylated. The resulting RNA molecule is the **small interfering RNA (siRNA)**, which sets off silencing. Notably, exogenously administered siRNAs are also capable of triggering silencing.
+
+The siRNA molecule prompts the assembly of an effector nuclease complex **RISC (RNA-induced silencing complex)**, whereby the RISC complex binds the siRNA and unwinds it. The sense strand, also called passenger strand, is digested by Ago2, a member of the complex and of the Argonaut protein family. The antisense strand, also called guide strand, guides RISC complex towards a complementary mRNA sequence. Upon recognition, the mRNA sequence is cleaved and digested, effectively leading to silencing of corresponding gene. Once the RISC complex is activated, it is capable of targeting numerous mRNA transcript copies, producing an effect that is sustained over several weeks in non-dividing cells \[[ref](https://www.nature.com/articles/nrd2742)\]. 
+
+The description we gave given so far is accurate, but omits some details that are relevant to applications. **First**, the mRNA cleavage and digestion is only one mechanism by which siRNA produces silencing. Chromatin modification and remodeling, as well translational inhibition, have been shown to play a role, albeit to smaller extent. **Second**, siRNA is capable of silencing sequences other than its perfect complements. This can happen in two ways: a) by extension of the silencing signal in the 3’ -> 5’ direction, effectively leading to silencing of sequences left to the target, and b) by RISC’s tolerance to mismatches, particularly at the ends of the guide sequence \[[ref](https://doi.org/10.1016/j.omtn.2022.02.004)\]. **Third**, mammalian somatic cells exhibit nonspecific response to delivery of dsRNA, and so does the innate immune system react to it by raising interferon levels. This precludes dsRNA use from silencing applications \[[ref](https://www.nature.com/articles/ncb0200_70)\]. Fortunately, the direct delivery of siRNAs is generally well tolerated. **Fourth**, studies in simpler organisms demonstrated the spreading of silencing signal into cell types beyond the target \[[ref](https://www.science.org/doi/full/10.1126/science.1068836)\]. The extent to which this plays a role in human cells is not fully understood.
+
+## Aspects of Therapeutic siRNA Design
+
+With only ~22 nucleotides (practically between 19 and 25), siRNA is a relatively simple molecule. The intense work over the past two decades demonstrated that this is by no way a limitation to sophistication of designs and modifications that it can lend itself to. In the following we describe several of the most widely adopted design features, including **formulation**, chemical **modification** of individual bases, and **conjugation** to additional moieties. 
+
+The earliest examples of siRNA’s were minimally modified, and their formulation was as much as subcutaneous injection of a solution in physiological buffer. Motivated by the need to prevent siRNAs from degradation, and to target their delivery to specific tissues, in the 2000’s the field explored different formulation methods. These included polymer nanoparticles and liposomes (or lipid nanoparticles, LNPs) \[[ref](https://www.nature.com/articles/nmat3765)\]. The latter, LNPs, become part of the first siRNA therapy, approved by both the FDA and the EMA in 2018 \[[ref](https://www.nature.com/articles/s41565-019-0591-y)\]. 
+
+Finding the right formulation for LNPs was, however, a substantial undertaking \[[ref](https://www.nature.com/articles/s41565-019-0591-y)\]. Consequently, the field shifted away from encapsulation formulations. Instead, the focus turned to chemically modifying siRNAs, and conjugating them to moieties that garner tissue specificity. Variants of this approach are dominant among all the approved therapies, as well as siRNA drug candidates currently in clinical trials. We illustrate this at detail on the example of givosiran \[[ref](https://www.nejm.org/doi/full/10.1056/NEJMoa1807838)\]. 
+
+<!-- All modifications featured on this molecule are also present on both clinical assets of Silence Therapeutics \[[ref](https://patents.google.com/patent/US20190119676A1)\]. 
+-->
+
+Givosiran is a siRNA therapeutic agent for reducing levels of expression of delta aminolevulinic acid synthase 1 (ALAS1). Givosiran is approved in patients with acute intermittent porphyria, with authorizations issued at the end of 2019 by the FDA, and two months later by the EMA. It is marketed under the brand name Givlaari by Alnylam Pharmaceuticals. Givosiran is a fully chemically modified siRNA (Fig.1). Apart from featuring the canonical two nucleotide 3’ overhang and 5’ phosphate, it includes a number of modifications. All RNA bases are modified at the 2’ position of a ribose: either with **2’-Fluoro (2’-F)**, or **2’-O-Methyl (2’-OMe)**. Both modifications improve target binding affinity \[[ref](http://dx.doi.org/10.1038/nbt.3765)\]. The 2’-OMe modification has been further shown to foster nuclease resistance, and reduce immune stimulation \[[ref](http://dx.doi.org/10.1038/nbt.3765)\]. 5’ end is modified with **E-vinyl phosphonate (5’-E-VP)**. 5’-E-VP is a phosphatase resistant 5’-phosphate analog, improving tissue accumulation by increasing chemical stability \[[ref](https://doi.org/10.1093/nar/gkx507)\]. Number of phosphodiester bonds at the end of each strand have been replaced by phosphorothioate, increasing the molecule’s stability, as well as facilitating its trafficking and uptake \[[ref](http://dx.doi.org/10.1038/nbt.3765)\]. Finally the 3’ end of the sense strand is conjugated to a trivalent GalNAc (Fig. 2). **GalNAc, N-Acetyl galactosamine**, is an amino-derivative of galactose and the ligand for asialoglycoprotein receptor (ASGPR), and abundant transmembrane protein in hepatocytes. The moiety is responsible for guiding the siRNA molecule to these cells, which are targets of the therapeutic. 
+
+<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/rnai_fig1.png" alt="" title="Header"/> </div>
+<div class="col three caption">Figure 1: Schematic depiction of the molecular composition of Givosiran. AS – antisense, S – sense strands. See text for detailed description.</div>
+
+<div class="img_row"> <img class="col three" src="{{ site.baseurl }}/img/rnai_fig2.png" alt="" title="Header"/> </div>
+<div class="col three caption">Figure 2: The molecular structure of the (GalNAc)3 conjugate shown in Fig. 1.</div>
+
+Both the position and type of the modifications have effect on number of therapeutically relevant parameters including toxicity, target binding and tissue accumulation. Despite large body of research available to date, and because number of modifications other than described are possible \[[ref](https://www.nature.com/articles/s41392-020-0207-x)\], the discovery of siRNA molecules for therapeutic applications continues to be heavily empirical. The best performing molecules must be found by extensive candidate screening. Due to difficulty of translating in-vitro to in-vivo results, this happens largely in animal models. 
+
+Similarly, so far we have discussed only one type of targeting moiety, GalNAc. Clearly, the utility of siRNA therapeutics is not limited to hepatocytes. However, targeting other cell types requires careful choice and optimization of the 3’ sense-strand conjugate, as well as its linker. Number of extrahepatic targeting ligands have been demonstrated so far. These include lipids \[[ref](https://academic.oup.com/nar/article/47/3/1082/5245439)\], peptides \[[ref](https://doi.org/10.1021/jacs.0c12043)\], centyrins \[[ref](https://doi.org/10.1016/j.ymthe.2021.02.015)\], antibodies \[[ref](https://doi.org/10.1093%2Fnar%2Fgkaa286)\], aptamers \[[ref](https://doi.org/10.1016/j.omtn.2017.12.015)\], as well as branched siRNA arrangements \[[ref](https://www.nature.com/articles/s41587-019-0205-0)\]. Finally, recent advances in mRNA-based therapeutics, commonly encapsulated as LNPs, have spurred new wave of interest in liposomes, particularly in advanced formulations with newly synthesized lipids \[[ref](https://www.nature.com/articles/s41563-024-01867-3)\]. 
+ 
+## Overview of siRNA Therapeutic Applications 
+
+siRNA has become a popular therapeutic modality, and is pursued for number of targets across tens of indications by sizeable number of companies. As of Q12024, there were 6 FDA approved siRNA drugs (Table 1).
+
+<div class="img_row"> 
+<img class="col three" src="{{ site.baseurl }}/img/rnai_table1.png" alt="" title="Header"/> 
+</div> 
+<div class="col three caption">Table 1: FDA approved siRNA therapeutics [<a href="https://www.nature.com/articles/s41587-023-02105-y/tables/1">ref</a>]. (h)ATTR– (hereditary) transthyretin-mediated amyloidosis. ‡ in phase III for a) major adverse cardiovascular events (MACE), and b) ASCVD and elevated LDL-C. 
+</div>
+
+Additionally, several investigational molecules were in stage phase III trials (Table 2).
+
+<div class="img_row"> 
+<img class="col three" src="{{ site.baseurl }}/img/rnai_table2.png" alt="" title="Header"/> 
+</div> 
+<div class="col three caption">Table 2: siRNA investigational drugs in stage phase III trials. NAION - nonarteritic anterior ischemic optic neuropathy. gMG - generalized myasthenia gravis, PNH - paroxysmal nocturnal hemoglobinuria, sHTG- severe hypertriglyceridemia, (AS)CVD – (atherosclerotic) cardiovascular disease, AATD - alpha-1 antitrypsin deficiency, ‡ - company deck [<a href="https://ir.arrowheadpharma.com/static-files/5aeef413-bfc6-4ef0-9a33-bdb8ad939483">ref</a>].
+</div>
+
+Finally, there is number of candidates in phase II trials (Table 3).
+
+<div class="img_row"> 
+<img class="col three" src="{{ site.baseurl }}/img/rnai_table3.png" alt="" title="Header"/> 
+</div> 
+<div class="col three caption">Table 3: Examples of siRNA investigational drugs in phase II trials [<a href="https://pubs.acs.org/doi/full/10.1021/acs.bioconjchem.3c00205">ref</a>, <a href="https://www.nature.com/articles/s41587-022-01334-x">ref</a>]. Con. – conjugate, CAA - cerebral amyloid angiopathy.
+</div>
+
+## Conclusions
+
+It is an exciting time for both developers of RNAi therapeutics as well as patients that stand to benefit from them, with number of recently approved drugs and several potential blockbusters queuing up in the pipeline. However, two aspects darken this otherwise rosy picture. **I)** Cardiovascular disease is by far the largest pursued indication, but, at the moment of writing, there are at least five late stage clinical assets going after it! This is great news for patients, but bad news for developers, who will see the blockbuster potential of their drugs dwindle. **II)** There is a very apparent lack of diversity of targeting strategies, with majority of the (investigational) drugs leveraging GalNAc conjugation for delivery to hepatocytes. Some target eye or skin. Only three clinical trials for lungs and kidneys have reached phase II, as did one trial for the brain \[[ref](https://www.nature.com/articles/s12276-023-00998-y)\]. The sustained success of RNAi therapeutics will be conditioned on RNAi companies' ability to devise strategies for extrahepatic delivery, with muscle and brain representing particularly attractive, but also elusive, targets.
+
+Thanks for reading everyone! Did you enjou this recap? And what area would you like to see covered next? Let me know in the comments.
