@@ -5,14 +5,12 @@ permalink: /resources/
 spotifyusername: holubm
 spotifyplaylist: 7HD8RrJ2l7Iers8yp4iiJF
 ---
-Below you will find loosely organized database of pointers and resources that I found useful in various domains of my life or that I think are otherwise worth sharing with you.
 
-**The pages below are not maintained, and are out of date.**
+Grossly out of date, but may be helpful.
 
 # research
-Let's kick off with pointers related to my work and research.
 
-## knowledge base 
+## scientific resources
 [Link to resources]({{ site.baseurl }}/pages/research_resources)
 
 ## tools
@@ -33,30 +31,20 @@ You will find the list [here]({{ site.baseurl }}/pages/czech_slovak_scientists)
 ## research fun
 Who would say that science can be so much [fun]({{ site.baseurl }}/pages/research_fun)
 
-<br/>
-<hr/>
-<br/>
-
-# making & hacking
-* <a href="https://sph.ethz.ch/" target="blank">Student Project House<a/>
-  * Makerspace at ETH
-* <a href="https://makezurich.ch/" target="blank">Makezurich<a/>
-  * Make- & Hack-aton in lovely Zurich
-* <a href="https://digitalfestival.ch/en/HACK/" target="blank">Hack Zurich<a/>
-  * Biggest Hackaton in Europe
+## making & hacking
+* <a href="https://sph.ethz.ch/" target="blank">Student Project House<a/>: Makerspace at ETH
+* <a href="https://makezurich.ch/" target="blank">Makezurich<a/>: Make- & Hack-aton in lovely Zurich
+* <a href="https://digitalfestival.ch/en/HACK/" target="blank">Hack Zurich<a/>: Biggest Hackaton in Europe
 
 <!--<a href="https://sph.ethz.ch/" target="blank">Student Project House<a/>_-->
 <br/>
 <hr/>
 <br/>
 
-# life
-
-you know, the non-science stuff.
+# non-tech stuff
 
 ## giving
-* <a href="https://www.givewell.org/" target="blank">GiveWell<a/>
-  * A meta-charity that helps you donate your resources to make the most good
+* <a href="https://www.givewell.org/" target="blank">GiveWell<a/>: A meta-charity that helps you donate your resources to make the most good
 * You have about <a href="https://80000hours.org/" target="blank">80'000 hours</a> of work in your life. Have you spent sufficient time to think how you will use it to leave the word a better place? This online resource will give you fresh and sometimes pretty surprising perspective.
 
 ## sports
@@ -72,6 +60,7 @@ you know, the non-science stuff.
 Here is link to my [Spotify profile](https://open.spotify.com/user/holubm).
 
 {% include spotifyplaylist.html id=page.spotifyplaylist %}
+<br/>
 
 ### books
  I maintain a list of books I have read on <a href="https://www.goodreads.com/user/show/92718688-martin" target="blank">Goodreads</a>. I am happy for any book recommendations you would like to share!

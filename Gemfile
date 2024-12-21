@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 gem "jekyll-sitemap", group: :jekyll_plugins
 gem "pygments.rb"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem "font-awesome-sass"
+gem "font-awesome-sass", "~> 6.5.1"
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-github-metadata', group: :jekyll_plugins
 gem 'redcarpet'

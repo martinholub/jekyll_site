@@ -24,6 +24,8 @@ While I try to write regularly, in practice there will be times when I write mor
 <div/>
 --->
 
+{% include subscribe.html %}
+
 
 
 

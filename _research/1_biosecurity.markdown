@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Biosecurity
-description: May '22 - today
+description: May '22 - May '24
 img: /img/research/1_biofoundries.jpg
 comments: false
 sharing: false

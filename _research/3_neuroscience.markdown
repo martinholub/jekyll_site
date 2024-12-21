@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neuro- science
+title: Neuroscience
 description: Nov '16 - Jun '19 
 img: /img/MachineLearningHeader.jpg
 comments: false

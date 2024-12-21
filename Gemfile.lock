@@ -276,7 +276,7 @@ PLATFORMS
 
 DEPENDENCIES
   ffi
-  font-awesome-sass
+  font-awesome-sass (~> 6.5.1)
   github-pages
   jekyll (>= 3.6.3)
   jekyll-gist
