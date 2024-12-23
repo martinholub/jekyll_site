@@ -1,7 +1,7 @@
 ---
 layout: page
-title: subscribe
-permalink: /subscribe/
+title: scimartin - subscribe
+permalink: /subscribe
 ---
 <!---
 While I try to write regularly, in practice there will be times when I write more and times when I write less. If you would like to know about my new articles, but do not want to come to here to check too often, then do subscribe via your e-mail address below. You will be among the first ones to know when I publish a new piece and I will be adding some background information about the article too!

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: scimartin - about
 permalink: /
 ---
 
@@ -10,7 +10,7 @@ Hi and welcome!
 
 <img class="col one left" src="/img/prof_pic4.jpg">
 
-My name is Martin, and I am a scientist and an engineer who spends most of his time thinking about how to make biology easier and safer to manipulate and deploy. 
+My name is Martin and I am a scientist and an engineer who spends most of his time thinking about how to make biology easier and safer to manipulate and deploy. I also go under 'JJ' as a nickname.
 
 I like poetry, flamenco music, fantasy books, botanical gardnes, jazz rap, dancing, national parks, walking barefoot, some cocktails, and most soups. I don't like pasta, seaside resorts, metal, conceptual art, red wine, flip-flops, having long fingernails and ice-cold water.
 
