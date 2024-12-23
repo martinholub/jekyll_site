@@ -107,7 +107,7 @@ color: $theme-color;
  * Page content   **********************************************************
  */
 .page-content {
-padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+padding: 20px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
 font-size: 20px;
@@ -368,3 +368,38 @@ font-size: $caption_font_size;
  * Spotify **********************************************************
 */
 @import "spotify-embed";
+
+/**
+ * Icons **********************************************************
+*/
+.icon {
+	width: .65em;
+	height: .65em;
+	vertical-align: -0.125em;
+	overflow: hidden;
+	color: $background-color;
+	background-color: $text-color; }
+
+.icon:hover{
+  background-color: lighten($theme-color, 10%);
+  }
+
+div.iconwrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  width: .85em;
+  height: .85em;
+  border-radius: 5px;
+  background-color: $text-color;
+  float: left;
+}
+
+div.iconwrapper:hover{
+  background-color: lighten($theme-color, 10%);
+  }
+  
+div.iconsuperwrapper{
+    display: inline-block;
+  }

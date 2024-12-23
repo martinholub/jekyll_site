@@ -21,8 +21,17 @@ plugins:
     - github-pages
     - jekyll-jupyter-notebook
     - jekyll-gist
+    - jekyll-font-awesome-sass
 
 plugins_dir: ./_plugins
+
+# sass
+#sass:
+#    sass_dir: css/_sass
+
+#font awesome
+font-awesome:
+  assets: true
 
 # Defaults
 defaults:
@@ -131,8 +140,9 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
 
   # RSS Feed
-name: Martin Holub Blog
-title: Martin Holub Blog
-description: Personal Blog
-author: Martin Holub
-url: https://www.martinholub.com/
+  feed_meta:
+    name: Martin Holub Blog
+    title: Martin Holub Blog
+    description: Personal Blog
+    author: Martin Holub
+    url: https://www.martinholub.com/
