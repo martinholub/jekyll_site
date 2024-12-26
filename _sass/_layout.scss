@@ -306,7 +306,8 @@ font-size: $caption_font_size;
     width: 100%;
 }
 .underpost-archive{
-    width: 30%; /*use this with twitter window*/
+    width: 100%; /*use 30% with twitter window*/
+	vertical-align: middle;
 }
 .overpost-archive{
     width: 100%;
@@ -388,7 +389,7 @@ div.iconwrapper{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 10px;
+  margin: 0px;
   width: .85em;
   height: .85em;
   border-radius: 5px;
