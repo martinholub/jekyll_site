@@ -39,6 +39,14 @@ $on-laptop:        800px;
     }
 }
 
+// Handle word wrap
+@mixin word-wrap() {
+    word-break:     break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens:    auto;
+    hyphens:         auto;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",

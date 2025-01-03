@@ -1,7 +1,7 @@
 ---
 layout: page
-title: resources
-permalink: /resources/
+title: scimartin-resources
+permalink: /resources
 spotifyusername: holubm
 spotifyplaylist: 7HD8RrJ2l7Iers8yp4iiJF
 ---
