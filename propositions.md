@@ -13,21 +13,21 @@ permalink: /propositions
 
 2. Condensin is a loop-extruding molecular motor that compacts megabase-scale DNA in vitro. (Chapter 5 of the thesis)
 
-3. Immunoprecipitation-based pulldown is a favorable method for isolating synthetic chromosomes.( Chapter 6 of the thesis)
+3. Immunoprecipitation-based pulldown is a favorable method for isolating synthetic chromosomes. (Chapter 6 of the thesis)
 
 4. Countries should build biofoundries to enhance biosecurity and develop workforce for the bioeconomy. (Chapter 7 of the thesis)
 
-5. [The culture of academic research is not keeping pace with advancements in the for-profit sector.](MakingAcademiaBetter1.html)
+5. [The culture of academic research is not keeping pace with advancements in the for-profit sector.](propositions/MakingAcademiaBetter1.html)
 
-6. [Universities should establish fellowships that fund stays of industry professionals in academic labs.](MakingAcademiaBetter2.html)
+6. [Universities should establish fellowships that fund stays of industry professionals in academic labs.](propositions/MakingAcademiaBetter2.html)
 
-7. [The foundations and practical experience of policy making must be included in graduate education.](MakingAcademiaBetter3.html)
+7. [The foundations and practical experience of policy making must be included in graduate education.](propositions/MakingAcademiaBetter3.html)
 
-8. [Need-driven research is a better investment of taxpayers money than research driven by curiosity.](MakingAcademiaBetter4.html)
+8. [Need-driven research is a better investment of taxpayers money than research driven by curiosity.](propositions/MakingAcademiaBetter4.html)
 
-9. [European countries must position themselves as attractive destinations for international migrants.](Migration.html)
+9. [European countries must position themselves as attractive destinations for international migrants.](propositions/Migration.html)
 
-10. [The benefits of Shell’s domicile in the Netherlands far outweighed its environmental controversies.](Shell.html)
+10. [The benefits of Shell’s domicile in the Netherlands far outweighed its environmental controversies.](propositions/Shell.html)
 
 
 
