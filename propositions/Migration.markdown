@@ -1,6 +1,6 @@
 ---
 layout: post
-title: European countries should position themselves as attractive destinations for the migrant demographic
+title: The Historical and Economic Argument for Immigration
 date: 2025-01-03 14:59
 tags: essay
 description: |
