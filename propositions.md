@@ -9,13 +9,13 @@ permalink: /propositions
 
 <br>
 
-1. Genome-in-a-box is a promising single-molecule methodology for studying the polymer physics of DNA. (Chapters 3 and 4 of the thesis)
+1. Genome-in-a-box is a promising single-molecule methodology for studying the polymer physics of DNA. (Chapters 3 and 4 of [the thesis](https://resolver.tudelft.nl/uuid:08912541-02f4-44af-b8a6-c3b7a3647f17))
 
-2. Condensin is a loop-extruding molecular motor that compacts megabase-scale DNA in vitro. (Chapter 5 of the thesis)
+2. Condensin is a loop-extruding molecular motor that compacts megabase-scale DNA in vitro. (Chapter 5 of [the thesis](https://resolver.tudelft.nl/uuid:08912541-02f4-44af-b8a6-c3b7a3647f17))
 
-3. Immunoprecipitation-based pulldown is a favorable method for isolating synthetic chromosomes. (Chapter 6 of the thesis)
+3. Immunoprecipitation-based pulldown is a favorable method for isolating synthetic chromosomes. (Chapter 6 of [the thesis](https://resolver.tudelft.nl/uuid:08912541-02f4-44af-b8a6-c3b7a3647f17))
 
-4. Countries should build biofoundries to enhance biosecurity and develop workforce for the bioeconomy. (Chapter 7 of the thesis)
+4. Countries should build biofoundries to enhance biosecurity and develop workforce for the bioeconomy. (Chapter 7 of [the thesis](https://resolver.tudelft.nl/uuid:08912541-02f4-44af-b8a6-c3b7a3647f17))
 
 5. [The culture of academic research is not keeping pace with advancements in the for-profit sector.](propositions/MakingAcademiaBetter1.html)
 
