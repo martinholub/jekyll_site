@@ -139,7 +139,7 @@ In the absence of policymaking as a structural component of graduate education. 
 | Name | Link |  
 |------|------|  
 | Statecraft | [https://www.statecraft.pub/](https://www.statecraft.pub/) |  
-| International Futures Project (IFP) | [https://ifp.org/](https://ifp.org/) |  
+| Institute for Progress (IFP) | [https://ifp.org/](https://ifp.org/) |  
 | Asimov Press | [https://www.asimov.press/](https://www.asimov.press/) |  
 | Asterisk Magazine | [https://asteriskmag.com/](https://asteriskmag.com/) |  
 | Quanta Magazine | [https://www.quantamagazine.org/](https://www.quantamagazine.org/) |   

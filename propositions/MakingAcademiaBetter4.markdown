@@ -14,7 +14,7 @@ _**Proposition #8:** Need-driven research is a better investment of taxpayers mo
 
 # Introduction
 
-Science and research are cornerstones of human progress. They enable innovations that shape our lives, help address pressing challenges and expand our understanding of Nature the Universe. Albert Einstein once said, 
+Science and research are cornerstones of human progress. They enable innovations that shape our lives, help address pressing challenges and expand our understanding of Nature and the Universe. Albert Einstein once said, 
 
 > “The important thing is not to stop questioning. Curiosity has its own reason for existing.” 
 
