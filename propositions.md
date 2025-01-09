@@ -17,17 +17,17 @@ permalink: /propositions
 
 4. Countries should build biofoundries to enhance biosecurity and develop workforce for the bioeconomy. (Chapter 7 of [the thesis](https://resolver.tudelft.nl/uuid:08912541-02f4-44af-b8a6-c3b7a3647f17))
 
-5. [The culture of academic research is not keeping pace with advancements in the for-profit sector.](propositions/MakingAcademiaBetter1.html)
+5. [The culture of academic research is not keeping pace with advancements in the for-profit sector.](2025/01/08/MakingAcademiaBetter1.html)
 
-6. [Universities should establish fellowships that fund stays of industry professionals in academic labs.](propositions/MakingAcademiaBetter2.html)
+6. [Universities should establish fellowships that fund stays of industry professionals in academic labs.](2025/01/08/MakingAcademiaBetter2.html)
 
-7. [The foundations and practical experience of policy making must be included in graduate education.](propositions/MakingAcademiaBetter3.html)
+7. [The foundations and practical experience of policy making must be included in graduate education.](2025/01/08/MakingAcademiaBetter3.html)
 
-8. [Need-driven research is a better investment of taxpayers money than research driven by curiosity.](propositions/MakingAcademiaBetter4.html)
+8. [Need-driven research is a better investment of taxpayers money than research driven by curiosity.](2025/01/08/MakingAcademiaBetter4.html)
 
-9. [European countries must position themselves as attractive destinations for international migrants.](propositions/Migration.html)
+9. [European countries must position themselves as attractive destinations for international migrants.](2025/01/08/Migration.html)
 
-10. [The benefits of Shell’s domicile in the Netherlands far outweighed its environmental controversies.](propositions/Shell.html)
+10. [The benefits of Shell’s domicile in the Netherlands far outweighed its environmental controversies.](2025/01/08/Shell.html)
 
 
 

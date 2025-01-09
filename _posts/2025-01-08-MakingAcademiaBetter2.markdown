@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making Academia Better, Part 2 – Adopt Modern Tools and Project Management Practices
+title: Making Academia Better, Part 2 – Actively Adopt Modern Tools and Project Management Practices
 date: 2025-01-08 07:56
 tags: business science essay
 description: |
