@@ -1,10 +1,10 @@
 # Site settings
-title: *blog
-email: mholub.ethz=gmail+comm
+title: Martin Holub Blog
+email: scimartin=proton+me
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Personal Website and Blog
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+url:  https://www.martinholub.com/
 twitter_username: scimartinx
 github_username:  martinholub
 
@@ -12,6 +12,7 @@ repository: martinholub/martin-holub.github.io
 github: [metadata]
 exclude: [Rakefile]
 include: [pages]
+destination: ./_site
 
 plugins:
     - jekyll-paginate
@@ -147,3 +148,6 @@ JB :
     description: Personal Blog
     author: Martin Holub
     url: https://www.martinholub.com/
+    icon: /img/prof_pic4.jpg
+    logo: /img/prof_pic4.jpg
+    posts_limit: 20
