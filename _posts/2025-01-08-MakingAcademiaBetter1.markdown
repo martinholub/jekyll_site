@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making Academia Better, Part 1 - Create New Interfaces for the Interaction with Industry
+title: Making Academia Better, Part 1 - Actively Adopt Modern Tools and Project Management Practices
 date: 2025-01-08 07:55
 tags: business science essay
 description: |
