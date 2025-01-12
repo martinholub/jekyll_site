@@ -4,7 +4,7 @@ email: scimartin=proton+me
 description: > # this means to ignore newlines until "baseurl:"
   Personal Website and Blog
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  https://www.martinholub.com/
+url:  https://www.martinholub.com
 twitter_username: scimartinx
 github_username:  martinholub
 
@@ -147,7 +147,7 @@ JB :
     title: Martin Holub Blog
     description: Personal Blog
     author: Martin Holub
-    url: https://www.martinholub.com/
+    url: https://www.martinholub.com
     icon: /img/prof_pic4.jpg
     logo: /img/prof_pic4.jpg
     posts_limit: 20
