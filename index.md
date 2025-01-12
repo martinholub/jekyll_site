@@ -1,6 +1,6 @@
 ---
 layout: page
-title: scimartin - about
+title: about
 permalink: /
 ---
 

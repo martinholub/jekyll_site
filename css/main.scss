@@ -12,13 +12,13 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #828282;
-$background-color: #181825; /* #fdfdfd;*/
+$text-color:       #C0C0C0; 
+$background-color: #2C2C2C; /* #fdfdfd;*/
 $background-color-light: lighten($background-color, 30%);
 $background-color-dark:  darken($background-color, 5%);
 
 $grey-color:       $background-color; /* tags, categories, ... */
-$grey-color-light: lighten($grey-color, 20%);
+$grey-color-light: lighten($grey-color, 30%);
 $grey-color-dark:  darken($grey-color, 10%);
 
 $on-palm:          600px;

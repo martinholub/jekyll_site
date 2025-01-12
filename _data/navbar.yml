@@ -4,8 +4,11 @@ docs:
 - title: blog
   url: /blog
 
-#- title: research
-#  url: /research
+- title: research
+  url: /research
+  
+- title: projects
+  url: /projects
 
 #- title: outreach
 #  url: /outreach
@@ -19,8 +22,8 @@ docs:
 #- title: synthetic-biology
 #  url: /synbio
 
-#- title: resources
-#  url: /resources
+- title: resources
+  url: /resources
 
 - title: subscribe
   url: /subscribe

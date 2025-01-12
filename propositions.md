@@ -1,9 +1,8 @@
 ---
 layout: page
-title: scimartin - propositions
+title: propositions
 permalink: /propositions
 ---
-
 
 ### Propositions accompanying the dissertation 'Single-Chromosome Biophysics'
 
@@ -28,7 +27,6 @@ permalink: /propositions
 9. [European countries must position themselves as attractive destinations for international migrants.](2025/01/08/Migration.html)
 
 10. [The benefits of Shell’s domicile in the Netherlands far outweighed its environmental controversies.](2025/01/08/Shell.html)
-
 
 
 <div class="col three caption">These propositions are regarded as opposable and defendable, and have been approved as such by promotors prof. dr. C. Dekker and prof. dr. A. M. Dogterom.</div>

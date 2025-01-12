@@ -55,7 +55,7 @@ display: line;
     position: relative;
     font-size: 20px;
     display: block;
-    opacity: 0.75;
+    opacity: 1;
     width: 100%;
     text-align: center;
     padding-top: 25px;
@@ -68,7 +68,11 @@ display: line;
     h2{
         font-size:25px;
         line-height: 1.75;
+		opacity: 0.75;
     }
+	h3{
+		opacity: 0.75;
+	}
 }
 
 /**

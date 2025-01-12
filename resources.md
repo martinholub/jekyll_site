@@ -1,6 +1,6 @@
 ---
 layout: page
-title: scimartin-resources
+title: resources
 permalink: /resources
 spotifyusername: holubm
 spotifyplaylist: 7HD8RrJ2l7Iers8yp4iiJF

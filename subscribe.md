@@ -1,6 +1,6 @@
 ---
 layout: page
-title: scimartin - subscribe
+title: subscribe
 permalink: /subscribe
 ---
 <!---

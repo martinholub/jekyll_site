@@ -43,6 +43,7 @@ defaults:
       comments: true
       sharing: true
       published: true
+      google_analytics: false
 
 # Build settings
 markdown: kramdown #redcarpet
@@ -59,7 +60,7 @@ kramdown:
       start_line: 1
 
 # Pagination
-paginate: 3
+paginate: 10
 paginate_path: "/blog/page:num/"
 pagination_enabled?: 1
 
@@ -73,9 +74,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
-#  poetry:
-#   output: false
-#    permalink: /poetry/:path/
+  poetry:
+    output: false
+    permalink: /poetry/:path/
 
 JB :
   version : 0.3.0
