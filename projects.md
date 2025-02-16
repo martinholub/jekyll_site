@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: /projects
 ---
 <!--
 {% assign shuffled_portfolio = site.portfolio | shift | sample: 7 %}

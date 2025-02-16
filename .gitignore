@@ -4,4 +4,5 @@ _site
 .Rhistory
 .tweet-cache/*
 .directory
-/not_used
+/_archive
+

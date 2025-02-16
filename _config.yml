@@ -18,7 +18,6 @@ plugins:
     - jekyll-paginate
     - jekyll-feed
     - jekyll-github-metadata
-    - jekyll-twitter-plugin
     - github-pages
     - jekyll-jupyter-notebook
     - jekyll-gist
