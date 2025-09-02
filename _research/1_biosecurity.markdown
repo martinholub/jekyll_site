@@ -5,6 +5,7 @@ description: May '22 - May '24
 img: /img/research/1_biofoundries.jpg
 comments: false
 sharing: false
+tags: biosecurity
 ---
 
 Biosecurity is the prevention and management of events caused by biological agents that harm human, plant, and animal health. There are multiple trends in our society happening concurrently, that have led, and continue to lead, to elevated biosecurity risk. These include urbanization, deforestation, globalization, but also synthetic biology. There is little immediate incentive to address the biosecurity risks that emanate, but failure to do so will likely result in millions of deaths and significant financial loss. I am developing frameworks to evaluate risks posed by various actors or events and building platforms to rationally evaluate the benefit of different preventive measures and interventions.

@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Neuroscience
-description: Nov '16 - Jun '19 
+description: Nov '16 - Jun '19
 img: /img/MachineLearningHeader.jpg
 comments: false
 sharing: false
+tags: science
 ---
 
 During my masters at [ETH Zürich](), for about two years, I worked as a student research assistant in the group of Bruno Weber - the [Experimental Imaging & Neuroenergetics](https://www.pharma.uzh.ch/en/research/functionalimaging.html) group at the [Institute of Pharmacology and Toxicology](https://www.pharma.uzh.ch/en.html) at the [UZH](https://www.uzh.ch/en.html). It was my first foray into neuroscience, and since then my appreciation for the field, and my interest in it, only grew.

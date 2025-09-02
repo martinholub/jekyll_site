@@ -5,6 +5,7 @@ description: A practical project at ETHZ
 img: /img/MachineLearningHeader.jpg
 comments: true
 sharing: true
+tags: ML
 ---
 <div class="img_row" style = "height: 275px;">
 	<img class="col three" src="{{ site.baseurl }}/img/MachineLearningHeader.jpg" alt="" title="MachineLearningHeader"/>

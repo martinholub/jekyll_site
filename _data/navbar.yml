@@ -4,11 +4,11 @@ docs:
 - title: blog
   url: /blog
 
-- title: research
-  url: /research
-  
-- title: projects
-  url: /projects
+#- title: research
+#  url: /research
+
+#- title: projects
+#  url: /projects
 
 #- title: outreach
 #  url: /outreach
@@ -18,12 +18,12 @@ docs:
 
 #- title: biosecurity
 #  url: /biosecurity
-  
+
 #- title: synthetic-biology
 #  url: /synbio
 
-- title: resources
-  url: /resources
+#- title: resources
+#  url: /resources
 
-- title: <b>newsletter</b>
-  url: /newsletter
+#- title: <b>newsletter</b>
+#  url: /newsletter

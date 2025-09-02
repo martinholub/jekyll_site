@@ -5,6 +5,7 @@ description: Jan '20 - today
 img: /img/research/2_wells.png
 comments: false
 sharing: false
+tags: science
 ---
 
 ### Genome Organization
@@ -45,6 +46,6 @@ I am also involved with [iGEM](https://www.igem.org/) as a supervisor and judge,
 
 ### journals
 
+* Joesaar, A.; <b>Holub, M.;</b> Lutze, L.; Emanuele, M.; Kerssemakers, J.; Pabst, M. and Dekker, C. A microfluidic platform for extraction and analysis of bacterial genomic DNA. Lab on a Chip, 25(7), pp.1767-1775, 2025. https://doi.org/10.1039/D4LC00839A
 * <b>Holub, M.;</b> Birnie, A.; Japaridze, A.; der Torre, J. van; Ridder, M. den; de Ram, C.; Pabst, M.; Dekker, C. Extracting and Characterizing Protein-Free Megabase-Pair DNA for in Vitro Experiments. Cell Reports Methods 2022, 100366. https://doi.org/10.1016/j.crmeth.2022.100366.
 * Aldulijan, I.; Beal, J.; Billerbeck, S.; Bouffard, J.; Chambonnier, G.; Ntelkis, N.; Guerreiro, I.; <b>Holub, M.</b>; Ross, P.; Selvarajah, V.; Sprent, N.; Vidal, G.; Vignoni, A. Functional Synthetic Biology. Synthetic Biology 2023, 8 (1), ysad006. https://doi.org/10.1093/synbio/ysad006.
-
